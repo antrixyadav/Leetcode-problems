@@ -4,6 +4,27 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-09-24T14:34:12.107Z",
-  "problems": []
+  "updatedAt": "2026-09-24T14:38:59.543Z",
+  "problems": [
+    {
+      "frontendId": "182",
+      "title": "Duplicate Emails",
+      "slug": "duplicate-emails",
+      "problemName": "0182-duplicate-emails",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/duplicate-emails/",
+      "folderPath": "0182-duplicate-emails/",
+      "readmePath": "0182-duplicate-emails/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0182-duplicate-emails.sql",
+          "path": "0182-duplicate-emails/0182-duplicate-emails.sql",
+          "sha": "ef4f8a8a449d6705d4065197a8ad8867ab9bf1b8",
+          "lastSyncedAt": "2026-09-24T14:38:59.543Z"
+        }
+      ]
+    }
+  ]
 }
