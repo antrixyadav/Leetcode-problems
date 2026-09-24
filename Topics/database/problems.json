@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-09-24T14:41:20.564Z",
+  "updatedAt": "2026-09-24T14:41:26.197Z",
   "problems": [
     {
       "frontendId": "175",
@@ -83,6 +83,26 @@
           "path": "0196-delete-duplicate-emails/0196-delete-duplicate-emails.sql",
           "sha": "6b8a8a1ca1d210478d6636baf09e46c7211d5509",
           "lastSyncedAt": "2026-09-24T14:40:45.335Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "584",
+      "title": "Find Customer Referee",
+      "slug": "find-customer-referee",
+      "problemName": "0584-find-customer-referee",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-customer-referee/",
+      "folderPath": "0584-find-customer-referee/",
+      "readmePath": "0584-find-customer-referee/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0584-find-customer-referee.sql",
+          "path": "0584-find-customer-referee/0584-find-customer-referee.sql",
+          "sha": "a8db0eff432866a1022f9373e0a1c6ea1afe4d5b",
+          "lastSyncedAt": "2026-09-24T14:41:26.197Z"
         }
       ]
     },
