@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-09-24T14:46:01.496Z",
+  "updatedAt": "2026-09-24T14:46:06.894Z",
   "problems": [
     {
       "frontendId": "175",
@@ -603,6 +603,26 @@
           "path": "1683-invalid-tweets/1683-invalid-tweets.sql",
           "sha": "fe1de38c16352257b9aa210199204198fa5d7850",
           "lastSyncedAt": "2026-09-24T14:45:36.787Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1757",
+      "title": "Recyclable and Low Fat Products",
+      "slug": "recyclable-and-low-fat-products",
+      "problemName": "1757-recyclable-and-low-fat-products",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/recyclable-and-low-fat-products/",
+      "folderPath": "1757-recyclable-and-low-fat-products/",
+      "readmePath": "1757-recyclable-and-low-fat-products/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1757-recyclable-and-low-fat-products.sql",
+          "path": "1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql",
+          "sha": "e124e720115453ae7e0ed10abff510cdd1c0f7c8",
+          "lastSyncedAt": "2026-09-24T14:46:06.894Z"
         }
       ]
     },
