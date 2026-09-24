@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-09-24T14:41:26.197Z",
+  "updatedAt": "2026-09-24T14:41:32.340Z",
   "problems": [
     {
       "frontendId": "175",
@@ -143,6 +143,26 @@
           "path": "0596-classes-with-at-least-5-students/0596-classes-with-at-least-5-students.sql",
           "sha": "0946dff60283e55cf4df3a19824017b8086c7a4b",
           "lastSyncedAt": "2026-09-24T14:41:14.931Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "620",
+      "title": "Not Boring Movies",
+      "slug": "not-boring-movies",
+      "problemName": "0620-not-boring-movies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/not-boring-movies/",
+      "folderPath": "0620-not-boring-movies/",
+      "readmePath": "0620-not-boring-movies/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0620-not-boring-movies.sql",
+          "path": "0620-not-boring-movies/0620-not-boring-movies.sql",
+          "sha": "df92cd1cc1f403b812f3822fa09ed9685214389a",
+          "lastSyncedAt": "2026-09-24T14:41:32.340Z"
         }
       ]
     },
