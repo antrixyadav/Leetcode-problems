@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-09-24T14:44:14.186Z",
+  "updatedAt": "2026-09-24T14:44:20.275Z",
   "problems": [
     {
       "frontendId": "175",
@@ -203,6 +203,26 @@
           "path": "0620-not-boring-movies/0620-not-boring-movies.sql",
           "sha": "df92cd1cc1f403b812f3822fa09ed9685214389a",
           "lastSyncedAt": "2026-09-24T14:43:34.698Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1251",
+      "title": "Average Selling Price",
+      "slug": "average-selling-price",
+      "problemName": "1251-average-selling-price",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/average-selling-price/",
+      "folderPath": "1251-average-selling-price/",
+      "readmePath": "1251-average-selling-price/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1251-average-selling-price.sql",
+          "path": "1251-average-selling-price/1251-average-selling-price.sql",
+          "sha": "4b30ad7b1e0bc1b947f2fc7968bf5139a3807624",
+          "lastSyncedAt": "2026-09-24T14:44:20.275Z"
         }
       ]
     },
