@@ -1,18 +1,15 @@
 # LeetCode Practice & Solutions
 
-This repository serves as a personal codebase for my LeetCode problem solutions, primarily implemented in C++. It reflects my continuous effort to strengthen algorithmic thinking, build strong coding logic, and maintain a disciplined practice habit.
+Welcome! This repository serves as a personal archive for my LeetCode problem solutions, primarily written in C++. 
 
----
+## 🎯 Purpose of this Repository
 
-## 🎯 Purpose & Objectives
+* **Practice & Learning:** A dedicated space to track my journey through Data Structures and Algorithms (DSA), sharpen my problem-solving skills, and practice coding logic.
+* **Personal Reference:** A clean, centralized space where I can quickly review my previously accepted solutions, rethink past approaches, and track my coding style over time.
 
-* **Algorithmic Growth:** Consistent practice to deepen my understanding of problem-solving techniques, logic building, and efficiency trade-offs.
-* **Code Quality:** A focus on writing clean, readable, and optimal solutions with careful consideration for time and space complexity.
-* **Technical Reference:** A structured space to archive verified approaches, revisit past code, and track the evolution of my implementation style over time.
+## 🛠️ Repository Structure
 
----
+All solution files are stored directly in this repository and named by their corresponding LeetCode problem number and title for easy navigation (e.g., `
+0007-problem-name`).
 
-## 🛠️ Repository Organization
-
-* Solutions are saved using a consistent naming convention with their official problem number and title for easy file management (e.g., `0009_palindrome_number.cpp`).
-* All solution files contained in this repository have been tested and accepted on LeetCode.
+All solutions submitted here are tested and accepted on LeetCode.
