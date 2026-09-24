@@ -10,6 +10,6 @@ Welcome! This repository serves as a personal archive for my LeetCode problem so
 ## 🛠️ Repository Structure
 
 All solution files are stored directly in this repository and named by their corresponding LeetCode problem number and title for easy navigation (e.g., `
-0007-problem-name`).
+XXXX-problem-name`).
 
 All solutions submitted here are tested and accepted on LeetCode.
