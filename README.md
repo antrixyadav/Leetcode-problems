@@ -1,6 +1,6 @@
 # LeetCode Practice & Solutions
 
-Welcome! This repository serves as a personal archive for my LeetCode problem solutions, primarily written in C++. 
+Welcome! This repository serves as a personal archive for my LeetCode problem solutions. 
 
 ## 🎯 Purpose of this Repository
 
