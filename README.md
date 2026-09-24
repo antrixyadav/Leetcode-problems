@@ -1,66 +1,14 @@
-# Leetcode-problems
+# LeetCode Practice & Solutions
 
-<!---LeetHub Summary Start-->
-## LeetHub Summary
+Welcome! This repository serves as a personal archive for my LeetCode problem solutions, primarily written in C++. 
 
-| Total Solved | Easy | Medium | Hard |
-| ---: | ---: | ---: | ---: |
-| 40 | 34 | 6 | 0 |
+## 🎯 Purpose of this Repository
 
-## Activity
+* **Practice & Learning:** A dedicated space to track my journey through Data Structures and Algorithms (DSA), sharpen my problem-solving skills, and practice coding logic.
+* **Personal Reference:** A clean, centralized space where I can quickly review my previously accepted solutions, rethink past approaches, and track my coding style over time.
 
-| Current Streak | Best Streak | Active Days |
-| ---: | ---: | ---: |
-| 0 days | 2 days | 17 |
+## 🛠️ Repository Structure
 
-| Date | Problems |
-| --- | ---: |
-| 2026-02-26 | 2 |
-| 2026-03-13 | 2 |
-| 2026-03-15 | 1 |
-| 2026-03-20 | 12 |
-| 2026-04-09 | 2 |
-| 2026-04-15 | 1 |
-| 2026-04-17 | 3 |
-| 2026-06-02 | 2 |
-| 2026-06-05 | 4 |
-| 2026-06-06 | 2 |
-| 2026-06-19 | 1 |
-| 2026-06-23 | 1 |
-| 2026-06-25 | 2 |
-| 2026-07-26 | 1 |
+All solution files are stored directly in this repository and named by their corresponding LeetCode problem number and title for easy navigation (e.g., `0009_palindrome_number.cpp`).
 
-## Top Tags
-
-| Tag | Problems | Coverage |
-| --- | ---: | ---: |
-| Database | 35 | 88% |
-| Math | 4 | 10% |
-| Dynamic Programming | 1 | 3% |
-| Hash Table | 1 | 3% |
-| Memoization | 1 | 3% |
-| String | 1 | 3% |
-
-## Topics
-
-| Topic | Problems |
-| --- | ---: |
-| [Array](Topics/array/) | 0 |
-| [Backtracking](Topics/backtracking/) | 0 |
-| [Binary Search](Topics/binary-search/) | 0 |
-| [Binary Tree](Topics/binary-tree/) | 0 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 0 |
-| [Data Structures](Topics/data-structures/) | 0 |
-| [Database](Topics/database/) | 35 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
-| [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 1 |
-| [Heap](Topics/heap/) | 0 |
-| [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 4 |
-| [Matrix](Topics/matrix/) | 0 |
-| [Memoization](Topics/memoization/) | 1 |
-| [Sorting](Topics/sorting/) | 0 |
-| [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 1 |
-<!---LeetHub Summary End-->
+All solutions submitted here are tested and accepted on LeetCode.
