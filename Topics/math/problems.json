@@ -4,6 +4,27 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T14:37:29.445Z",
-  "problems": []
+  "updatedAt": "2026-09-24T14:38:10.815Z",
+  "problems": [
+    {
+      "frontendId": "9",
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "problemName": "0009-palindrome-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-number/",
+      "folderPath": "0009-palindrome-number/",
+      "readmePath": "0009-palindrome-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0009-palindrome-number.cpp",
+          "path": "0009-palindrome-number/0009-palindrome-number.cpp",
+          "sha": "d298b1cdc382bb5597030cdb951e66e486678339",
+          "lastSyncedAt": "2026-09-24T14:38:10.815Z"
+        }
+      ]
+    }
+  ]
 }
