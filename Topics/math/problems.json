@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T14:42:56.588Z",
+  "updatedAt": "2026-09-24T14:43:47.814Z",
   "problems": [
     {
       "frontendId": "7",
@@ -63,6 +63,26 @@
           "path": "0013-roman-to-integer/0013-roman-to-integer.cpp",
           "sha": "6ddd7445d8ccc949358862feb70ea52b4d3c1a1e",
           "lastSyncedAt": "2026-09-24T14:42:56.588Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "70",
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "problemName": "0070-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+      "folderPath": "0070-climbing-stairs/",
+      "readmePath": "0070-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0070-climbing-stairs.c",
+          "path": "0070-climbing-stairs/0070-climbing-stairs.c",
+          "sha": "a40ce032cc43922b8efc6ecbddfb20367c11340a",
+          "lastSyncedAt": "2026-09-24T14:43:47.814Z"
         }
       ]
     }
