@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-09-24T14:41:14.931Z",
+  "updatedAt": "2026-09-24T14:41:20.564Z",
   "problems": [
     {
       "frontendId": "175",
@@ -83,6 +83,26 @@
           "path": "0196-delete-duplicate-emails/0196-delete-duplicate-emails.sql",
           "sha": "6b8a8a1ca1d210478d6636baf09e46c7211d5509",
           "lastSyncedAt": "2026-09-24T14:40:45.335Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "586",
+      "title": "Customer Placing the Largest Number of Orders",
+      "slug": "customer-placing-the-largest-number-of-orders",
+      "problemName": "0586-customer-placing-the-largest-number-of-orders",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/",
+      "folderPath": "0586-customer-placing-the-largest-number-of-orders/",
+      "readmePath": "0586-customer-placing-the-largest-number-of-orders/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0586-customer-placing-the-largest-number-of-orders.sql",
+          "path": "0586-customer-placing-the-largest-number-of-orders/0586-customer-placing-the-largest-number-of-orders.sql",
+          "sha": "5bc63e6dc22e98df48c647bb054243f19058e59f",
+          "lastSyncedAt": "2026-09-24T14:41:20.564Z"
         }
       ]
     },
