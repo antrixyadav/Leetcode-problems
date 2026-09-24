@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-09-24T14:45:30.746Z",
+  "updatedAt": "2026-09-24T14:45:36.787Z",
   "problems": [
     {
       "frontendId": "175",
@@ -503,6 +503,26 @@
           "path": "1633-percentage-of-users-attended-a-contest/1633-percentage-of-users-attended-a-contest.sql",
           "sha": "6982ec3e5711abd040d58497e0662d5cc620c3b4",
           "lastSyncedAt": "2026-09-24T14:44:08.751Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1683",
+      "title": "Invalid Tweets",
+      "slug": "invalid-tweets",
+      "problemName": "1683-invalid-tweets",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/invalid-tweets/",
+      "folderPath": "1683-invalid-tweets/",
+      "readmePath": "1683-invalid-tweets/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1683-invalid-tweets.sql",
+          "path": "1683-invalid-tweets/1683-invalid-tweets.sql",
+          "sha": "fe1de38c16352257b9aa210199204198fa5d7850",
+          "lastSyncedAt": "2026-09-24T14:45:36.787Z"
         }
       ]
     },
