@@ -19,7 +19,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 41 | 34 | 7 | 0 |
+| 42 | 35 | 7 | 0 |
 
 ## Activity
 
@@ -42,26 +42,27 @@ All solutions submitted here are tested and accepted on LeetCode.
 | 2026-06-23 | 1 |
 | 2026-06-25 | 2 |
 | 2026-07-26 | 1 |
-| 2026-09-24 | 1 |
+| 2026-09-24 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 35 | 85% |
+| Database | 35 | 83% |
 | Math | 4 | 10% |
+| Two Pointers | 2 | 5% |
+| Array | 1 | 2% |
 | Dynamic Programming | 1 | 2% |
 | Hash Table | 1 | 2% |
 | Linked List | 1 | 2% |
 | Memoization | 1 | 2% |
 | String | 1 | 2% |
-| Two Pointers | 1 | 2% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 0 |
+| [Array](Topics/array/) | 1 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 0 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -79,5 +80,5 @@ All solutions submitted here are tested and accepted on LeetCode.
 | [Sorting](Topics/sorting/) | 0 |
 | [Stack](Topics/stack/) | 0 |
 | [String](Topics/string/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 1 |
+| [Two Pointers](Topics/two-pointers/) | 2 |
 <!---LeetHub Summary End-->
