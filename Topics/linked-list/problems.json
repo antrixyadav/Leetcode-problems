@@ -4,6 +4,27 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-24T14:28:01.225Z",
-  "problems": []
+  "updatedAt": "2026-09-24T16:45:46.190Z",
+  "problems": [
+    {
+      "frontendId": "19",
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "problemName": "0019-remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "folderPath": "0019-remove-nth-node-from-end-of-list/",
+      "readmePath": "0019-remove-nth-node-from-end-of-list/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0019-remove-nth-node-from-end-of-list.c",
+          "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.c",
+          "sha": "1d041aa564a642e63531e3dafca1e40abf13f8c9",
+          "lastSyncedAt": "2026-09-24T16:45:46.190Z"
+        }
+      ]
+    }
+  ]
 }
