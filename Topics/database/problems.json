@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-09-24T14:43:42.179Z",
+  "updatedAt": "2026-09-24T14:44:01.061Z",
   "problems": [
     {
       "frontendId": "175",
@@ -243,6 +243,26 @@
           "path": "1527-patients-with-a-condition/1527-patients-with-a-condition.sql",
           "sha": "9685950a9aa38e819361aeb48c629e702c1fa441",
           "lastSyncedAt": "2026-09-24T14:43:06.657Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1873",
+      "title": "Calculate Special Bonus",
+      "slug": "calculate-special-bonus",
+      "problemName": "1873-calculate-special-bonus",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/calculate-special-bonus/",
+      "folderPath": "1873-calculate-special-bonus/",
+      "readmePath": "1873-calculate-special-bonus/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1873-calculate-special-bonus.sql",
+          "path": "1873-calculate-special-bonus/1873-calculate-special-bonus.sql",
+          "sha": "bc4b4a12edaf9e3636d36a0e70ae615c1e88de33",
+          "lastSyncedAt": "2026-09-24T14:44:01.061Z"
         }
       ]
     }
