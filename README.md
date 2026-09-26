@@ -19,7 +19,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 44 | 37 | 7 | 0 |
+| 45 | 38 | 7 | 0 |
 
 ## Activity
 
@@ -42,18 +42,18 @@ All solutions submitted here are tested and accepted on LeetCode.
 | 2026-06-25 | 2 |
 | 2026-07-26 | 1 |
 | 2026-09-24 | 3 |
-| 2026-09-26 | 1 |
+| 2026-09-26 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 35 | 80% |
+| Database | 35 | 78% |
 | Math | 4 | 9% |
+| Array | 3 | 7% |
 | Two Pointers | 3 | 7% |
-| Array | 2 | 5% |
-| Linked List | 2 | 5% |
-| Binary Search | 1 | 2% |
+| Binary Search | 2 | 4% |
+| Linked List | 2 | 4% |
 | Dynamic Programming | 1 | 2% |
 | Hash Table | 1 | 2% |
 | Memoization | 1 | 2% |
@@ -63,9 +63,9 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 2 |
+| [Array](Topics/array/) | 3 |
 | [Backtracking](Topics/backtracking/) | 0 |
-| [Binary Search](Topics/binary-search/) | 1 |
+| [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
 | [Data Structures](Topics/data-structures/) | 0 |
