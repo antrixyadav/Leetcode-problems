@@ -19,17 +19,16 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 45 | 38 | 7 | 0 |
+| 46 | 39 | 7 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 2 days | 19 |
+| 1 days | 2 days | 20 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-03-15 | 1 |
 | 2026-03-20 | 12 |
 | 2026-04-09 | 2 |
 | 2026-04-15 | 1 |
@@ -43,15 +42,16 @@ All solutions submitted here are tested and accepted on LeetCode.
 | 2026-07-26 | 1 |
 | 2026-09-24 | 3 |
 | 2026-09-26 | 2 |
+| 2026-09-29 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 35 | 78% |
+| Database | 35 | 76% |
+| Array | 4 | 9% |
 | Math | 4 | 9% |
-| Array | 3 | 7% |
-| Two Pointers | 3 | 7% |
+| Two Pointers | 4 | 9% |
 | Binary Search | 2 | 4% |
 | Linked List | 2 | 4% |
 | Dynamic Programming | 1 | 2% |
@@ -63,7 +63,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 3 |
+| [Array](Topics/array/) | 4 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -81,5 +81,5 @@ All solutions submitted here are tested and accepted on LeetCode.
 | [Sorting](Topics/sorting/) | 0 |
 | [Stack](Topics/stack/) | 0 |
 | [String](Topics/string/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 3 |
+| [Two Pointers](Topics/two-pointers/) | 4 |
 <!---LeetHub Summary End-->
