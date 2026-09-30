@@ -19,17 +19,16 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 48 | 41 | 7 | 0 |
+| 49 | 42 | 7 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 2 days | 20 |
+| 2 days | 2 days | 21 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-03-20 | 12 |
 | 2026-04-09 | 2 |
 | 2026-04-15 | 1 |
 | 2026-04-17 | 3 |
@@ -43,31 +42,33 @@ All solutions submitted here are tested and accepted on LeetCode.
 | 2026-09-24 | 3 |
 | 2026-09-26 | 2 |
 | 2026-09-29 | 3 |
+| 2026-09-30 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 35 | 73% |
-| Array | 6 | 13% |
+| Database | 35 | 71% |
+| Array | 7 | 14% |
 | Two Pointers | 5 | 10% |
 | Math | 4 | 8% |
 | Binary Search | 2 | 4% |
 | Linked List | 2 | 4% |
 | Bit Manipulation | 1 | 2% |
+| Counting | 1 | 2% |
 | Dynamic Programming | 1 | 2% |
 | Hash Table | 1 | 2% |
-| Memoization | 1 | 2% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 6 |
+| [Array](Topics/array/) | 7 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 35 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
