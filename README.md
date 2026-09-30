@@ -19,7 +19,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 49 | 42 | 7 | 0 |
+| 50 | 43 | 7 | 0 |
 
 ## Activity
 
@@ -42,14 +42,14 @@ All solutions submitted here are tested and accepted on LeetCode.
 | 2026-09-24 | 3 |
 | 2026-09-26 | 2 |
 | 2026-09-29 | 3 |
-| 2026-09-30 | 1 |
+| 2026-09-30 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 35 | 71% |
-| Array | 7 | 14% |
+| Database | 35 | 70% |
+| Array | 8 | 16% |
 | Two Pointers | 5 | 10% |
 | Math | 4 | 8% |
 | Binary Search | 2 | 4% |
@@ -63,7 +63,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 7 |
+| [Array](Topics/array/) | 8 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -79,6 +79,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 | [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Memoization](Topics/memoization/) | 1 |
+| [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Sorting](Topics/sorting/) | 0 |
 | [Stack](Topics/stack/) | 0 |
 | [String](Topics/string/) | 1 |
