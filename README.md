@@ -19,17 +19,16 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 51 | 44 | 7 | 0 |
+| 52 | 45 | 7 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 3 days | 22 |
+| 1 days | 3 days | 23 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-04-15 | 1 |
 | 2026-04-17 | 3 |
 | 2026-06-02 | 2 |
 | 2026-06-05 | 4 |
@@ -43,15 +42,16 @@ All solutions submitted here are tested and accepted on LeetCode.
 | 2026-09-29 | 3 |
 | 2026-09-30 | 2 |
 | 2026-10-01 | 1 |
+| 2026-10-03 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 35 | 69% |
-| Array | 9 | 18% |
+| Database | 35 | 67% |
+| Array | 9 | 17% |
 | Two Pointers | 6 | 12% |
-| Math | 4 | 8% |
+| Math | 5 | 10% |
 | Binary Search | 2 | 4% |
 | Linked List | 2 | 4% |
 | Bit Manipulation | 1 | 2% |
@@ -76,7 +76,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 | [Hash Table](Topics/hash-table/) | 1 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 2 |
-| [Math](Topics/math/) | 4 |
+| [Math](Topics/math/) | 5 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
