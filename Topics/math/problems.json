@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-03T04:56:50.032Z",
+  "updatedAt": "2026-10-03T04:57:22.804Z",
   "problems": [
     {
       "frontendId": "7",
@@ -102,7 +102,7 @@
           "filename": "0263-ugly-number.java",
           "path": "0263-ugly-number/0263-ugly-number.java",
           "sha": "97f83a5f8f38a32980a848f4b7f4144f2b9ffd05",
-          "lastSyncedAt": "2026-10-03T04:56:50.032Z"
+          "lastSyncedAt": "2026-10-03T04:57:22.804Z"
         }
       ]
     }
