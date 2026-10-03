@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T14:43:47.814Z",
+  "updatedAt": "2026-10-03T04:56:50.032Z",
   "problems": [
     {
       "frontendId": "7",
@@ -83,6 +83,26 @@
           "path": "0070-climbing-stairs/0070-climbing-stairs.c",
           "sha": "a40ce032cc43922b8efc6ecbddfb20367c11340a",
           "lastSyncedAt": "2026-09-24T14:43:47.814Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "263",
+      "title": "Ugly Number",
+      "slug": "ugly-number",
+      "problemName": "0263-ugly-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ugly-number/",
+      "folderPath": "0263-ugly-number/",
+      "readmePath": "0263-ugly-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0263-ugly-number.java",
+          "path": "0263-ugly-number/0263-ugly-number.java",
+          "sha": "97f83a5f8f38a32980a848f4b7f4144f2b9ffd05",
+          "lastSyncedAt": "2026-10-03T04:56:50.032Z"
         }
       ]
     }
