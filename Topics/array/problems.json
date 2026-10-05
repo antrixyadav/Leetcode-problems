@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-05T14:20:43.918Z",
+  "updatedAt": "2026-10-05T14:20:50.050Z",
   "problems": [
     {
       "frontendId": "26",
@@ -122,7 +122,7 @@
           "filename": "0136-single-number.c",
           "path": "0136-single-number/0136-single-number.c",
           "sha": "f6bb776d8dd7f94c1e742f05692b804b61eb3f7c",
-          "lastSyncedAt": "2026-09-29T15:51:01.563Z"
+          "lastSyncedAt": "2026-10-05T14:20:50.050Z"
         }
       ]
     },
