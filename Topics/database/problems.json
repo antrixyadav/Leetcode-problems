@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-05T14:22:22.001Z",
+  "updatedAt": "2026-10-05T14:22:26.040Z",
   "problems": [
     {
       "frontendId": "175",
@@ -562,7 +562,7 @@
           "filename": "1484-group-sold-products-by-the-date.sql",
           "path": "1484-group-sold-products-by-the-date/1484-group-sold-products-by-the-date.sql",
           "sha": "33fcd8d2c1009967988ba4640b0889d3736bdf03",
-          "lastSyncedAt": "2026-09-24T14:43:13.485Z"
+          "lastSyncedAt": "2026-10-05T14:22:26.040Z"
         }
       ]
     },
