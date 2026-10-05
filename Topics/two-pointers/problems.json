@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-10-01T05:23:20.444Z",
+  "updatedAt": "2026-10-05T14:20:26.822Z",
   "problems": [
     {
       "frontendId": "19",
@@ -82,7 +82,7 @@
           "filename": "0088-merge-sorted-array.c",
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.c",
           "sha": "5213a6bdd1584054770dd329d0e79351e1f70e63",
-          "lastSyncedAt": "2026-10-01T05:23:20.444Z"
+          "lastSyncedAt": "2026-10-05T14:20:26.822Z"
         }
       ]
     },
