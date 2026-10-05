@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-05T14:24:58.675Z",
+  "updatedAt": "2026-10-05T14:25:01.543Z",
   "problems": [
     {
       "frontendId": "175",
@@ -282,7 +282,7 @@
           "filename": "0595-big-countries.sql",
           "path": "0595-big-countries/0595-big-countries.sql",
           "sha": "3ea42594d4c7f8d61d4e9ede7a9c13ec8e05b37b",
-          "lastSyncedAt": "2026-09-24T14:46:01.496Z"
+          "lastSyncedAt": "2026-10-05T14:25:01.543Z"
         }
       ]
     },
