@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-01T05:23:20.444Z",
+  "updatedAt": "2026-10-05T14:20:21.353Z",
   "problems": [
     {
       "frontendId": "26",
@@ -43,6 +43,26 @@
           "path": "0027-remove-element/0027-remove-element.c",
           "sha": "de4b99ffef93620a7c99b848be2e2f4787b12177",
           "lastSyncedAt": "2026-09-24T17:17:25.090Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "34",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "slug": "find-first-and-last-position-of-element-in-sorted-array",
+      "problemName": "0034-find-first-and-last-position-of-element-in-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+      "folderPath": "0034-find-first-and-last-position-of-element-in-sorted-array/",
+      "readmePath": "0034-find-first-and-last-position-of-element-in-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0034-find-first-and-last-position-of-element-in-sorted-array.c",
+          "path": "0034-find-first-and-last-position-of-element-in-sorted-array/0034-find-first-and-last-position-of-element-in-sorted-array.c",
+          "sha": "a509f40e2f6f4f2463cebf1580ba28a8d8e61151",
+          "lastSyncedAt": "2026-10-05T14:20:21.353Z"
         }
       ]
     },
