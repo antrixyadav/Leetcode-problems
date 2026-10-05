@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-05T14:21:21.252Z",
+  "updatedAt": "2026-10-05T14:21:29.722Z",
   "problems": [
     {
       "frontendId": "26",
@@ -42,7 +42,7 @@
           "filename": "0027-remove-element.c",
           "path": "0027-remove-element/0027-remove-element.c",
           "sha": "de4b99ffef93620a7c99b848be2e2f4787b12177",
-          "lastSyncedAt": "2026-09-24T17:17:25.090Z"
+          "lastSyncedAt": "2026-10-05T14:21:29.722Z"
         }
       ]
     },
