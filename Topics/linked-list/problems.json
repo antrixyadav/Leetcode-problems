@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-26T14:58:26.636Z",
+  "updatedAt": "2026-10-05T14:21:12.291Z",
   "problems": [
     {
       "frontendId": "19",
@@ -42,7 +42,7 @@
           "filename": "0876-middle-of-the-linked-list.c",
           "path": "0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.c",
           "sha": "e97593d3a106fefc0683fa6c9bd6abaaff0571d9",
-          "lastSyncedAt": "2026-09-26T14:58:26.636Z"
+          "lastSyncedAt": "2026-10-05T14:21:12.291Z"
         }
       ]
     }
