@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-05T14:22:02.739Z",
+  "updatedAt": "2026-10-06T12:49:42.624Z",
   "problems": [
     {
       "frontendId": "13",
@@ -23,6 +23,26 @@
           "path": "0013-roman-to-integer/0013-roman-to-integer.cpp",
           "sha": "6ddd7445d8ccc949358862feb70ea52b4d3c1a1e",
           "lastSyncedAt": "2026-10-05T14:22:02.739Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "817",
+      "title": "Linked List Components",
+      "slug": "linked-list-components",
+      "problemName": "0817-linked-list-components",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-components/",
+      "folderPath": "0817-linked-list-components/",
+      "readmePath": "0817-linked-list-components/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0817-linked-list-components.c",
+          "path": "0817-linked-list-components/0817-linked-list-components.c",
+          "sha": "b2fcc271bd39bb03a8de7e44c68634dc88958bb4",
+          "lastSyncedAt": "2026-10-06T12:49:42.624Z"
         }
       ]
     }
