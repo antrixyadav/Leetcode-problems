@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-06T13:22:26.348Z",
+  "updatedAt": "2026-10-06T13:22:28.921Z",
   "problems": [
     {
       "frontendId": "175",
@@ -222,7 +222,7 @@
           "filename": "0577-employee-bonus.sql",
           "path": "0577-employee-bonus/0577-employee-bonus.sql",
           "sha": "08874af0a50b50047b8944b073120f3feb5525e1",
-          "lastSyncedAt": "2026-10-05T14:24:55.911Z"
+          "lastSyncedAt": "2026-10-06T13:22:28.921Z"
         }
       ]
     },
