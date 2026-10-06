@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-06T13:22:34.544Z",
+  "updatedAt": "2026-10-06T13:22:37.387Z",
   "problems": [
     {
       "frontendId": "175",
@@ -642,7 +642,7 @@
           "filename": "1757-recyclable-and-low-fat-products.sql",
           "path": "1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql",
           "sha": "e124e720115453ae7e0ed10abff510cdd1c0f7c8",
-          "lastSyncedAt": "2026-10-05T14:25:05.740Z"
+          "lastSyncedAt": "2026-10-06T13:22:37.387Z"
         }
       ]
     },
