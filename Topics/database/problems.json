@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-06T13:20:53.145Z",
+  "updatedAt": "2026-10-06T13:20:55.925Z",
   "problems": [
     {
       "frontendId": "175",
@@ -582,7 +582,7 @@
           "filename": "1527-patients-with-a-condition.sql",
           "path": "1527-patients-with-a-condition/1527-patients-with-a-condition.sql",
           "sha": "9685950a9aa38e819361aeb48c629e702c1fa441",
-          "lastSyncedAt": "2026-10-05T14:22:17.114Z"
+          "lastSyncedAt": "2026-10-06T13:20:55.925Z"
         }
       ]
     },
