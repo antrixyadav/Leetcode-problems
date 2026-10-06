@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-10-05T14:21:36.021Z",
+  "updatedAt": "2026-10-06T12:49:42.624Z",
   "problems": [
     {
       "frontendId": "19",
@@ -23,6 +23,26 @@
           "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.c",
           "sha": "1d041aa564a642e63531e3dafca1e40abf13f8c9",
           "lastSyncedAt": "2026-10-05T14:21:36.021Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "817",
+      "title": "Linked List Components",
+      "slug": "linked-list-components",
+      "problemName": "0817-linked-list-components",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-components/",
+      "folderPath": "0817-linked-list-components/",
+      "readmePath": "0817-linked-list-components/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0817-linked-list-components.c",
+          "path": "0817-linked-list-components/0817-linked-list-components.c",
+          "sha": "b2fcc271bd39bb03a8de7e44c68634dc88958bb4",
+          "lastSyncedAt": "2026-10-06T12:49:42.624Z"
         }
       ]
     },
