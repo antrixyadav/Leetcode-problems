@@ -19,7 +19,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 55 | 47 | 8 | 0 |
+| 57 | 47 | 10 | 0 |
 
 ## Activity
 
@@ -42,28 +42,28 @@ All solutions submitted here are tested and accepted on LeetCode.
 | 2026-10-01 | 2 |
 | 2026-10-03 | 1 |
 | 2026-10-05 | 1 |
-| 2026-10-06 | 1 |
+| 2026-10-06 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 35 | 64% |
-| Array | 12 | 22% |
+| Database | 35 | 61% |
+| Array | 13 | 23% |
+| Math | 6 | 11% |
 | Two Pointers | 6 | 11% |
-| Math | 5 | 9% |
+| Linked List | 4 | 7% |
 | Binary Search | 3 | 5% |
-| Linked List | 2 | 4% |
+| Hash Table | 2 | 4% |
 | Stack | 2 | 4% |
 | Bit Manipulation | 1 | 2% |
 | Counting | 1 | 2% |
-| Dynamic Programming | 1 | 2% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 12 |
+| [Array](Topics/array/) | 13 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -73,14 +73,15 @@ All solutions submitted here are tested and accepted on LeetCode.
 | [Database](Topics/database/) | 35 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 1 |
+| [Hash Table](Topics/hash-table/) | 2 |
 | [Heap](Topics/heap/) | 0 |
-| [Linked List](Topics/linked-list/) | 2 |
-| [Math](Topics/math/) | 5 |
+| [Linked List](Topics/linked-list/) | 4 |
+| [Math](Topics/math/) | 6 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
+| [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 2 |
