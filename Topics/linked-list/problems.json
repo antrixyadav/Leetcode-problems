@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-10-06T13:18:43.292Z",
+  "updatedAt": "2026-10-06T13:18:55.083Z",
   "problems": [
     {
       "frontendId": "2",
@@ -62,7 +62,7 @@
           "filename": "0817-linked-list-components.c",
           "path": "0817-linked-list-components/0817-linked-list-components.c",
           "sha": "b2fcc271bd39bb03a8de7e44c68634dc88958bb4",
-          "lastSyncedAt": "2026-10-06T12:49:42.624Z"
+          "lastSyncedAt": "2026-10-06T13:18:55.083Z"
         }
       ]
     },
