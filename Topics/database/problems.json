@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-06T13:22:43.220Z",
+  "updatedAt": "2026-10-07T07:36:33.924Z",
   "problems": [
     {
       "frontendId": "175",
@@ -122,7 +122,7 @@
           "filename": "0182-duplicate-emails.sql",
           "path": "0182-duplicate-emails/0182-duplicate-emails.sql",
           "sha": "ef4f8a8a449d6705d4065197a8ad8867ab9bf1b8",
-          "lastSyncedAt": "2026-10-06T13:20:34.713Z"
+          "lastSyncedAt": "2026-10-07T07:36:33.924Z"
         }
       ]
     },
