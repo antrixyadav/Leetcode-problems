@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-06T13:20:45.668Z",
+  "updatedAt": "2026-10-07T07:35:12.919Z",
   "problems": [
     {
       "frontendId": "13",
@@ -42,7 +42,7 @@
           "filename": "0817-linked-list-components.c",
           "path": "0817-linked-list-components/0817-linked-list-components.c",
           "sha": "b2fcc271bd39bb03a8de7e44c68634dc88958bb4",
-          "lastSyncedAt": "2026-10-06T13:18:55.083Z"
+          "lastSyncedAt": "2026-10-07T07:35:12.919Z"
         }
       ]
     }
