@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-10-06T13:20:26.725Z",
+  "updatedAt": "2026-10-07T07:34:57.274Z",
   "problems": [
     {
       "frontendId": "19",
@@ -123,6 +123,26 @@
           "path": "0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.c",
           "sha": "e97593d3a106fefc0683fa6c9bd6abaaff0571d9",
           "lastSyncedAt": "2026-10-06T13:20:12.292Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2130",
+      "title": "Maximum Twin Sum of a Linked List",
+      "slug": "maximum-twin-sum-of-a-linked-list",
+      "problemName": "2130-maximum-twin-sum-of-a-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/",
+      "folderPath": "2130-maximum-twin-sum-of-a-linked-list/",
+      "readmePath": "2130-maximum-twin-sum-of-a-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2130-maximum-twin-sum-of-a-linked-list.c",
+          "path": "2130-maximum-twin-sum-of-a-linked-list/2130-maximum-twin-sum-of-a-linked-list.c",
+          "sha": "de91a4fdda709736a358b7598f7365bab176159e",
+          "lastSyncedAt": "2026-10-07T07:34:57.274Z"
         }
       ]
     }
