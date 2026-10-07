@@ -19,17 +19,16 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 57 | 47 | 10 | 0 |
+| 58 | 47 | 11 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 3 days | 25 |
+| 3 days | 3 days | 26 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-06-05 | 4 |
 | 2026-06-06 | 2 |
 | 2026-06-19 | 1 |
 | 2026-06-23 | 1 |
@@ -43,19 +42,20 @@ All solutions submitted here are tested and accepted on LeetCode.
 | 2026-10-03 | 1 |
 | 2026-10-05 | 1 |
 | 2026-10-06 | 3 |
+| 2026-10-07 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 35 | 61% |
-| Array | 13 | 23% |
-| Math | 6 | 11% |
-| Two Pointers | 6 | 11% |
-| Linked List | 4 | 7% |
+| Database | 35 | 60% |
+| Array | 13 | 22% |
+| Two Pointers | 7 | 12% |
+| Math | 6 | 10% |
+| Linked List | 5 | 9% |
 | Binary Search | 3 | 5% |
-| Hash Table | 2 | 4% |
-| Stack | 2 | 4% |
+| Stack | 3 | 5% |
+| Hash Table | 2 | 3% |
 | Bit Manipulation | 1 | 2% |
 | Counting | 1 | 2% |
 
@@ -75,7 +75,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 2 |
 | [Heap](Topics/heap/) | 0 |
-| [Linked List](Topics/linked-list/) | 4 |
+| [Linked List](Topics/linked-list/) | 5 |
 | [Math](Topics/math/) | 6 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Memoization](Topics/memoization/) | 1 |
@@ -84,7 +84,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sorting](Topics/sorting/) | 1 |
-| [Stack](Topics/stack/) | 2 |
+| [Stack](Topics/stack/) | 3 |
 | [String](Topics/string/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 6 |
+| [Two Pointers](Topics/two-pointers/) | 7 |
 <!---LeetHub Summary End-->
