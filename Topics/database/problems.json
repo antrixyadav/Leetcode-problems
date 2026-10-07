@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-07T07:37:55.802Z",
+  "updatedAt": "2026-10-07T07:37:57.996Z",
   "problems": [
     {
       "frontendId": "175",
@@ -382,7 +382,7 @@
           "filename": "0627-swap-sex-of-employees.sql",
           "path": "0627-swap-sex-of-employees/0627-swap-sex-of-employees.sql",
           "sha": "2c9611c1f0f9aa24f2734e8ba2c36217a6ac6181",
-          "lastSyncedAt": "2026-10-06T13:22:20.692Z"
+          "lastSyncedAt": "2026-10-07T07:37:57.996Z"
         }
       ]
     },
