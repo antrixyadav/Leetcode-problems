@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-07T07:37:23.285Z",
+  "updatedAt": "2026-10-07T07:37:25.913Z",
   "problems": [
     {
       "frontendId": "175",
@@ -602,7 +602,7 @@
           "filename": "1633-percentage-of-users-attended-a-contest.sql",
           "path": "1633-percentage-of-users-attended-a-contest/1633-percentage-of-users-attended-a-contest.sql",
           "sha": "6982ec3e5711abd040d58497e0662d5cc620c3b4",
-          "lastSyncedAt": "2026-10-06T13:21:36.559Z"
+          "lastSyncedAt": "2026-10-07T07:37:25.913Z"
         }
       ]
     },
