@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-10-08T08:42:51.742Z",
+  "updatedAt": "2026-10-08T08:43:00.139Z",
   "problems": [
     {
       "frontendId": "2",
@@ -22,7 +22,7 @@
           "filename": "0002-add-two-numbers.c",
           "path": "0002-add-two-numbers/0002-add-two-numbers.c",
           "sha": "05f9bab0168bb3256791544010e31d5b43b53bd8",
-          "lastSyncedAt": "2026-10-07T07:35:05.628Z"
+          "lastSyncedAt": "2026-10-08T08:43:00.139Z"
         }
       ]
     },
