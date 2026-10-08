@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T08:43:30.977Z",
+  "updatedAt": "2026-10-08T08:43:35.581Z",
   "problems": [
     {
       "frontendId": "26",
@@ -122,7 +122,7 @@
           "filename": "0088-merge-sorted-array.c",
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.c",
           "sha": "5213a6bdd1584054770dd329d0e79351e1f70e63",
-          "lastSyncedAt": "2026-10-07T07:35:41.995Z"
+          "lastSyncedAt": "2026-10-08T08:43:35.581Z"
         }
       ]
     },
