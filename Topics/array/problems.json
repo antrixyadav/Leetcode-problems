@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T08:44:08.525Z",
+  "updatedAt": "2026-10-08T08:44:17.559Z",
   "problems": [
     {
       "frontendId": "26",
@@ -202,7 +202,7 @@
           "filename": "0704-binary-search.c",
           "path": "0704-binary-search/0704-binary-search.c",
           "sha": "145fe3b3aeda146c1d54ee80b236cb10cd1bbca6",
-          "lastSyncedAt": "2026-10-07T07:36:19.579Z"
+          "lastSyncedAt": "2026-10-08T08:44:17.559Z"
         }
       ]
     },
