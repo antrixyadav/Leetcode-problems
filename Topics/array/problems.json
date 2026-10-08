@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T08:43:52.947Z",
+  "updatedAt": "2026-10-08T08:43:59.138Z",
   "problems": [
     {
       "frontendId": "26",
@@ -162,7 +162,7 @@
           "filename": "0283-move-zeroes.c",
           "path": "0283-move-zeroes/0283-move-zeroes.c",
           "sha": "d3e3f3d481f5eca4d8cd13e13ea11fa3d6b25539",
-          "lastSyncedAt": "2026-10-07T07:36:02.378Z"
+          "lastSyncedAt": "2026-10-08T08:43:59.138Z"
         }
       ]
     },
