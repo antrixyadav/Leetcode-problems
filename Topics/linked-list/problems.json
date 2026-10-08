@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-10-07T07:36:27.769Z",
+  "updatedAt": "2026-10-08T08:42:37.767Z",
   "problems": [
     {
       "frontendId": "2",
@@ -83,6 +83,26 @@
           "path": "0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.c",
           "sha": "e97593d3a106fefc0683fa6c9bd6abaaff0571d9",
           "lastSyncedAt": "2026-10-07T07:36:15.114Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1669",
+      "title": "Merge In Between Linked Lists",
+      "slug": "merge-in-between-linked-lists",
+      "problemName": "1669-merge-in-between-linked-lists",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-in-between-linked-lists/",
+      "folderPath": "1669-merge-in-between-linked-lists/",
+      "readmePath": "1669-merge-in-between-linked-lists/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1669-merge-in-between-linked-lists.c",
+          "path": "1669-merge-in-between-linked-lists/1669-merge-in-between-linked-lists.c",
+          "sha": "8f6c548ebb2fc2d3f1990005a3ce2502a2ecdd08",
+          "lastSyncedAt": "2026-10-08T08:42:37.767Z"
         }
       ]
     },
