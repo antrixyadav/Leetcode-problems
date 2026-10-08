@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-08T08:45:10.359Z",
+  "updatedAt": "2026-10-08T08:45:13.071Z",
   "problems": [
     {
       "frontendId": "175",
@@ -362,7 +362,7 @@
           "filename": "0620-not-boring-movies.sql",
           "path": "0620-not-boring-movies/0620-not-boring-movies.sql",
           "sha": "df92cd1cc1f403b812f3822fa09ed9685214389a",
-          "lastSyncedAt": "2026-10-07T07:37:11.100Z"
+          "lastSyncedAt": "2026-10-08T08:45:13.071Z"
         }
       ]
     },
