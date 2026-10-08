@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-08T08:44:33.621Z",
+  "updatedAt": "2026-10-08T08:44:39.785Z",
   "problems": [
     {
       "frontendId": "175",
@@ -22,7 +22,7 @@
           "filename": "0175-combine-two-tables.sql",
           "path": "0175-combine-two-tables/0175-combine-two-tables.sql",
           "sha": "ec007fe0613fe2b4220ec10545b0d80398b2ed96",
-          "lastSyncedAt": "2026-10-07T07:36:39.884Z"
+          "lastSyncedAt": "2026-10-08T08:44:39.785Z"
         }
       ]
     },
