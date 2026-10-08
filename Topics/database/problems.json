@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-08T08:44:59.788Z",
+  "updatedAt": "2026-10-08T08:45:02.811Z",
   "problems": [
     {
       "frontendId": "175",
@@ -302,7 +302,7 @@
           "filename": "0596-classes-with-at-least-5-students.sql",
           "path": "0596-classes-with-at-least-5-students/0596-classes-with-at-least-5-students.sql",
           "sha": "0946dff60283e55cf4df3a19824017b8086c7a4b",
-          "lastSyncedAt": "2026-10-07T07:37:03.215Z"
+          "lastSyncedAt": "2026-10-08T08:45:02.811Z"
         }
       ]
     },
