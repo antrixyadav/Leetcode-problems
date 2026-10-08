@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T08:42:45.435Z",
+  "updatedAt": "2026-10-08T08:43:08.139Z",
   "problems": [
     {
       "frontendId": "26",
@@ -222,7 +222,7 @@
           "filename": "0817-linked-list-components.c",
           "path": "0817-linked-list-components/0817-linked-list-components.c",
           "sha": "b2fcc271bd39bb03a8de7e44c68634dc88958bb4",
-          "lastSyncedAt": "2026-10-07T07:35:12.919Z"
+          "lastSyncedAt": "2026-10-08T08:43:08.139Z"
         }
       ]
     },
