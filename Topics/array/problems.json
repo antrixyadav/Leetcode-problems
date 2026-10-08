@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T08:43:42.107Z",
+  "updatedAt": "2026-10-08T08:43:47.130Z",
   "problems": [
     {
       "frontendId": "26",
@@ -282,7 +282,7 @@
           "filename": "3978-unique-middle-element.c",
           "path": "3978-unique-middle-element/3978-unique-middle-element.c",
           "sha": "83e8287e518649e9723b40a88214cedb2d72d9c2",
-          "lastSyncedAt": "2026-10-07T07:35:52.856Z"
+          "lastSyncedAt": "2026-10-08T08:43:47.130Z"
         }
       ]
     }
