@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T08:43:21.341Z",
+  "updatedAt": "2026-10-08T08:43:30.977Z",
   "problems": [
     {
       "frontendId": "26",
@@ -82,7 +82,7 @@
           "filename": "0034-find-first-and-last-position-of-element-in-sorted-array.c",
           "path": "0034-find-first-and-last-position-of-element-in-sorted-array/0034-find-first-and-last-position-of-element-in-sorted-array.c",
           "sha": "a509f40e2f6f4f2463cebf1580ba28a8d8e61151",
-          "lastSyncedAt": "2026-10-07T07:35:36.983Z"
+          "lastSyncedAt": "2026-10-08T08:43:30.977Z"
         }
       ]
     },
