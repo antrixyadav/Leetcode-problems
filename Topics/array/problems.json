@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T08:44:04.198Z",
+  "updatedAt": "2026-10-08T08:44:08.525Z",
   "problems": [
     {
       "frontendId": "26",
@@ -102,7 +102,7 @@
           "filename": "0035-search-insert-position.c",
           "path": "0035-search-insert-position/0035-search-insert-position.c",
           "sha": "bb741aa332e1cb874eb8aebe37ebdc870a622fb9",
-          "lastSyncedAt": "2026-10-07T07:36:11.087Z"
+          "lastSyncedAt": "2026-10-08T08:44:08.525Z"
         }
       ]
     },
