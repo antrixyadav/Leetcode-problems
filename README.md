@@ -19,7 +19,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 64 | 51 | 13 | 0 |
+| 65 | 52 | 13 | 0 |
 
 ## Activity
 
@@ -42,22 +42,22 @@ All solutions submitted here are tested and accepted on LeetCode.
 | 2026-10-06 | 3 |
 | 2026-10-07 | 2 |
 | 2026-10-08 | 1 |
-| 2026-10-11 | 4 |
+| 2026-10-11 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 35 | 55% |
+| Database | 35 | 54% |
 | Array | 14 | 22% |
 | Two Pointers | 9 | 14% |
 | Linked List | 6 | 9% |
 | Math | 6 | 9% |
-| String | 5 | 8% |
+| String | 6 | 9% |
 | Binary Search | 4 | 6% |
+| Hash Table | 3 | 5% |
 | Stack | 3 | 5% |
-| Hash Table | 2 | 3% |
-| Bit Manipulation | 1 | 2% |
+| Counting | 2 | 3% |
 
 ## Topics
 
@@ -68,12 +68,12 @@ All solutions submitted here are tested and accepted on LeetCode.
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
-| [Counting](Topics/counting/) | 1 |
+| [Counting](Topics/counting/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 35 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 2 |
+| [Hash Table](Topics/hash-table/) | 3 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Math](Topics/math/) | 6 |
@@ -81,10 +81,11 @@ All solutions submitted here are tested and accepted on LeetCode.
 | [Memoization](Topics/memoization/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
+| [Queue](Topics/queue/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 5 |
+| [String](Topics/string/) | 6 |
 | [Two Pointers](Topics/two-pointers/) | 9 |
 <!---LeetHub Summary End-->
