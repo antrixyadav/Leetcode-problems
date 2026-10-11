@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "sorting",
-    "name": "Sorting"
+    "name": "Sorting",
+    "tagId": "61049"
   },
-  "updatedAt": "2026-10-08T08:43:35.581Z",
+  "updatedAt": "2026-10-11T11:04:17.509Z",
   "problems": [
     {
       "frontendId": "88",
@@ -22,7 +23,7 @@
           "filename": "0088-merge-sorted-array.c",
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.c",
           "sha": "5213a6bdd1584054770dd329d0e79351e1f70e63",
-          "lastSyncedAt": "2026-10-08T08:43:35.581Z"
+          "lastSyncedAt": "2026-10-11T11:04:17.509Z"
         }
       ]
     }
