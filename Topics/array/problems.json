@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T11:04:23.658Z",
+  "updatedAt": "2026-10-11T11:04:28.167Z",
   "problems": [
     {
       "frontendId": "26",
@@ -283,7 +283,7 @@
           "filename": "3978-unique-middle-element.c",
           "path": "3978-unique-middle-element/3978-unique-middle-element.c",
           "sha": "83e8287e518649e9723b40a88214cedb2d72d9c2",
-          "lastSyncedAt": "2026-10-08T08:43:47.130Z"
+          "lastSyncedAt": "2026-10-11T11:04:28.167Z"
         }
       ]
     }
