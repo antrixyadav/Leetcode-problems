@@ -19,17 +19,16 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 60 | 47 | 13 | 0 |
+| 61 | 48 | 13 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 4 days | 27 |
+| 1 days | 4 days | 28 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-06-19 | 1 |
 | 2026-06-23 | 1 |
 | 2026-06-25 | 2 |
 | 2026-07-26 | 1 |
@@ -43,21 +42,22 @@ All solutions submitted here are tested and accepted on LeetCode.
 | 2026-10-06 | 3 |
 | 2026-10-07 | 2 |
 | 2026-10-08 | 1 |
+| 2026-10-11 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 35 | 58% |
+| Database | 35 | 57% |
 | Array | 14 | 23% |
-| Two Pointers | 7 | 12% |
+| Two Pointers | 8 | 13% |
 | Linked List | 6 | 10% |
 | Math | 6 | 10% |
 | Binary Search | 4 | 7% |
 | Stack | 3 | 5% |
 | Hash Table | 2 | 3% |
+| String | 2 | 3% |
 | Bit Manipulation | 1 | 2% |
-| Counting | 1 | 2% |
 
 ## Topics
 
@@ -85,6 +85,6 @@ All solutions submitted here are tested and accepted on LeetCode.
 | [Simulation](Topics/simulation/) | 1 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 7 |
+| [String](Topics/string/) | 2 |
+| [Two Pointers](Topics/two-pointers/) | 8 |
 <!---LeetHub Summary End-->
