@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "prefix-sum",
-    "name": "Prefix Sum"
+    "name": "Prefix Sum",
+    "tagId": "61068"
   },
-  "updatedAt": "2026-10-08T08:43:42.107Z",
+  "updatedAt": "2026-10-11T11:04:23.658Z",
   "problems": [
     {
       "frontendId": "1480",
@@ -22,7 +23,7 @@
           "filename": "1480-running-sum-of-1d-array.c",
           "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.c",
           "sha": "81908101cd044fa3521df66122c8fe7e1d44b84b",
-          "lastSyncedAt": "2026-10-08T08:43:42.107Z"
+          "lastSyncedAt": "2026-10-11T11:04:23.658Z"
         }
       ]
     }
