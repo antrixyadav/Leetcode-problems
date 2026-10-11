@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T12:55:12.875Z",
+  "updatedAt": "2026-10-11T12:55:14.861Z",
   "problems": [
     {
       "frontendId": "175",
@@ -483,7 +483,7 @@
           "filename": "1251-average-selling-price.sql",
           "path": "1251-average-selling-price/1251-average-selling-price.sql",
           "sha": "4b30ad7b1e0bc1b947f2fc7968bf5139a3807624",
-          "lastSyncedAt": "2026-10-11T12:20:59.827Z"
+          "lastSyncedAt": "2026-10-11T12:55:14.861Z"
         }
       ]
     },
