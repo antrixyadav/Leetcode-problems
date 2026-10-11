@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T11:05:40.666Z",
+  "updatedAt": "2026-10-11T11:05:43.217Z",
   "problems": [
     {
       "frontendId": "175",
@@ -243,7 +243,7 @@
           "filename": "0584-find-customer-referee.sql",
           "path": "0584-find-customer-referee/0584-find-customer-referee.sql",
           "sha": "a8db0eff432866a1022f9373e0a1c6ea1afe4d5b",
-          "lastSyncedAt": "2026-10-08T08:45:10.359Z"
+          "lastSyncedAt": "2026-10-11T11:05:43.217Z"
         }
       ]
     },
