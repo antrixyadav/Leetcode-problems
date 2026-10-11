@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T12:55:25.803Z",
+  "updatedAt": "2026-10-11T12:55:28.036Z",
   "problems": [
     {
       "frontendId": "175",
@@ -63,7 +63,7 @@
           "filename": "0177-nth-highest-salary.sql",
           "path": "0177-nth-highest-salary/0177-nth-highest-salary.sql",
           "sha": "4a4c86afd094c38a886438a77e1c6459eb704e4b",
-          "lastSyncedAt": "2026-10-11T12:21:16.326Z"
+          "lastSyncedAt": "2026-10-11T12:55:28.036Z"
         }
       ]
     },
