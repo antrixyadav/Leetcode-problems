@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T11:04:38.194Z",
+  "updatedAt": "2026-10-11T11:04:42.500Z",
   "problems": [
     {
       "frontendId": "19",
@@ -43,7 +43,7 @@
           "filename": "0026-remove-duplicates-from-sorted-array.c",
           "path": "0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.c",
           "sha": "3d2c9a84ed1d3b426bfff4efacc09b344cccd602",
-          "lastSyncedAt": "2026-10-08T08:44:04.198Z"
+          "lastSyncedAt": "2026-10-11T11:04:42.500Z"
         }
       ]
     },
