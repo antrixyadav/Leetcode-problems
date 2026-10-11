@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T11:03:39.617Z",
+  "updatedAt": "2026-10-11T11:04:17.509Z",
   "problems": [
     {
       "frontendId": "19",
@@ -83,7 +83,7 @@
           "filename": "0088-merge-sorted-array.c",
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.c",
           "sha": "5213a6bdd1584054770dd329d0e79351e1f70e63",
-          "lastSyncedAt": "2026-10-08T08:43:35.581Z"
+          "lastSyncedAt": "2026-10-11T11:04:17.509Z"
         }
       ]
     },
