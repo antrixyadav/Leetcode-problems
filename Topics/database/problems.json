@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T12:55:06.207Z",
+  "updatedAt": "2026-10-11T12:55:09.807Z",
   "problems": [
     {
       "frontendId": "175",
@@ -603,7 +603,7 @@
           "filename": "1633-percentage-of-users-attended-a-contest.sql",
           "path": "1633-percentage-of-users-attended-a-contest/1633-percentage-of-users-attended-a-contest.sql",
           "sha": "6982ec3e5711abd040d58497e0662d5cc620c3b4",
-          "lastSyncedAt": "2026-10-11T12:20:55.135Z"
+          "lastSyncedAt": "2026-10-11T12:55:09.807Z"
         }
       ]
     },
