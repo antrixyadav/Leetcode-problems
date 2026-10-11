@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "binary-search",
-    "name": "Binary Search"
+    "name": "Binary Search",
+    "tagId": "11"
   },
-  "updatedAt": "2026-10-08T08:44:17.559Z",
+  "updatedAt": "2026-10-11T11:03:34.197Z",
   "problems": [
     {
       "frontendId": "33",
@@ -22,7 +23,7 @@
           "filename": "0033-search-in-rotated-sorted-array.c",
           "path": "0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.c",
           "sha": "0759a329a4dd5c5c6710a5952bd3b19e794a9a28",
-          "lastSyncedAt": "2026-10-08T08:42:45.435Z"
+          "lastSyncedAt": "2026-10-11T11:03:34.197Z"
         }
       ]
     },
