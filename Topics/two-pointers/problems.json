@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-18T14:09:44.389Z",
+  "updatedAt": "2026-10-18T14:35:33.920Z",
   "problems": [
     {
       "frontendId": "19",
@@ -144,6 +144,26 @@
           "path": "0344-reverse-string/0344-reverse-string.c",
           "sha": "dccc7688c86b82f298998ae2a6a414bae2b9ada8",
           "lastSyncedAt": "2026-10-18T14:08:06.217Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "345",
+      "title": "Reverse Vowels of a String",
+      "slug": "reverse-vowels-of-a-string",
+      "problemName": "0345-reverse-vowels-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-vowels-of-a-string/",
+      "folderPath": "0345-reverse-vowels-of-a-string/",
+      "readmePath": "0345-reverse-vowels-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0345-reverse-vowels-of-a-string.c",
+          "path": "0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.c",
+          "sha": "ad377b9522b614d968b0234056b8dc2d39a0f15a",
+          "lastSyncedAt": "2026-10-18T14:35:33.920Z"
         }
       ]
     },
