@@ -19,7 +19,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 67 | 54 | 13 | 0 |
+| 68 | 54 | 14 | 0 |
 
 ## Activity
 
@@ -42,18 +42,18 @@ All solutions submitted here are tested and accepted on LeetCode.
 | 2026-10-07 | 2 |
 | 2026-10-08 | 1 |
 | 2026-10-11 | 5 |
-| 2026-10-18 | 2 |
+| 2026-10-18 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 35 | 52% |
+| Database | 35 | 51% |
 | Array | 14 | 21% |
 | Two Pointers | 10 | 15% |
-| String | 8 | 12% |
+| String | 9 | 13% |
+| Math | 7 | 10% |
 | Linked List | 6 | 9% |
-| Math | 6 | 9% |
 | Binary Search | 4 | 6% |
 | Hash Table | 4 | 6% |
 | Counting | 3 | 4% |
@@ -76,16 +76,16 @@ All solutions submitted here are tested and accepted on LeetCode.
 | [Hash Table](Topics/hash-table/) | 4 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 6 |
-| [Math](Topics/math/) | 6 |
+| [Math](Topics/math/) | 7 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Queue](Topics/queue/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
-| [Simulation](Topics/simulation/) | 1 |
+| [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 8 |
+| [String](Topics/string/) | 9 |
 | [Two Pointers](Topics/two-pointers/) | 10 |
 <!---LeetHub Summary End-->
