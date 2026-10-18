@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T15:27:57.605Z",
+  "updatedAt": "2026-10-18T15:27:59.717Z",
   "problems": [
     {
       "frontendId": "13",
@@ -183,7 +183,7 @@
           "filename": "0520-detect-capital.c",
           "path": "0520-detect-capital/0520-detect-capital.c",
           "sha": "91be85bbd9e1b8f3622277521c58f1b0106e3ba4",
-          "lastSyncedAt": "2026-10-18T14:35:56.571Z"
+          "lastSyncedAt": "2026-10-18T15:27:59.717Z"
         }
       ]
     }
