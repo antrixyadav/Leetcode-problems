@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-18T14:38:07.363Z",
+  "updatedAt": "2026-10-18T14:38:15.343Z",
   "problems": [
     {
       "frontendId": "175",
@@ -663,7 +663,7 @@
           "filename": "1873-calculate-special-bonus.sql",
           "path": "1873-calculate-special-bonus/1873-calculate-special-bonus.sql",
           "sha": "bc4b4a12edaf9e3636d36a0e70ae615c1e88de33",
-          "lastSyncedAt": "2026-10-18T14:10:33.805Z"
+          "lastSyncedAt": "2026-10-18T14:38:15.343Z"
         }
       ]
     },
