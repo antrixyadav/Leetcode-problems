@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-18T15:30:40.188Z",
+  "updatedAt": "2026-10-18T15:30:43.151Z",
   "problems": [
     {
       "frontendId": "175",
@@ -543,7 +543,7 @@
           "filename": "1407-top-travellers.sql",
           "path": "1407-top-travellers/1407-top-travellers.sql",
           "sha": "3a73b59de8b9d56bebc706a9fc8bfb6a43f08a8b",
-          "lastSyncedAt": "2026-10-18T14:38:29.493Z"
+          "lastSyncedAt": "2026-10-18T15:30:43.151Z"
         }
       ]
     },
