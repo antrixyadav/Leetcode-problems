@@ -19,7 +19,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 68 | 54 | 14 | 0 |
+| 69 | 54 | 15 | 0 |
 
 ## Activity
 
@@ -42,16 +42,16 @@ All solutions submitted here are tested and accepted on LeetCode.
 | 2026-10-07 | 2 |
 | 2026-10-08 | 1 |
 | 2026-10-11 | 5 |
-| 2026-10-18 | 3 |
+| 2026-10-18 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Database | 35 | 51% |
-| Array | 14 | 21% |
-| Two Pointers | 10 | 15% |
-| String | 9 | 13% |
+| Array | 14 | 20% |
+| String | 10 | 14% |
+| Two Pointers | 10 | 14% |
 | Math | 7 | 10% |
 | Linked List | 6 | 9% |
 | Binary Search | 4 | 6% |
@@ -86,6 +86,6 @@ All solutions submitted here are tested and accepted on LeetCode.
 | [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 9 |
+| [String](Topics/string/) | 10 |
 | [Two Pointers](Topics/two-pointers/) | 10 |
 <!---LeetHub Summary End-->
