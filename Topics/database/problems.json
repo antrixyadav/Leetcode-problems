@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-18T15:31:01.928Z",
+  "updatedAt": "2026-10-18T15:31:04.550Z",
   "problems": [
     {
       "frontendId": "175",
@@ -383,7 +383,7 @@
           "filename": "0627-swap-sex-of-employees.sql",
           "path": "0627-swap-sex-of-employees/0627-swap-sex-of-employees.sql",
           "sha": "2c9611c1f0f9aa24f2734e8ba2c36217a6ac6181",
-          "lastSyncedAt": "2026-10-18T14:38:49.555Z"
+          "lastSyncedAt": "2026-10-18T15:31:04.550Z"
         }
       ]
     },
