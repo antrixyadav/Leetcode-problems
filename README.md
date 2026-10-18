@@ -19,17 +19,16 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 65 | 52 | 13 | 0 |
+| 66 | 53 | 13 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 4 days | 28 |
+| 1 days | 4 days | 29 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-06-23 | 1 |
 | 2026-06-25 | 2 |
 | 2026-07-26 | 1 |
 | 2026-09-24 | 3 |
@@ -43,21 +42,22 @@ All solutions submitted here are tested and accepted on LeetCode.
 | 2026-10-07 | 2 |
 | 2026-10-08 | 1 |
 | 2026-10-11 | 5 |
+| 2026-10-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 35 | 54% |
-| Array | 14 | 22% |
+| Database | 35 | 53% |
+| Array | 14 | 21% |
 | Two Pointers | 9 | 14% |
+| String | 7 | 11% |
 | Linked List | 6 | 9% |
 | Math | 6 | 9% |
-| String | 6 | 9% |
 | Binary Search | 4 | 6% |
-| Hash Table | 3 | 5% |
+| Hash Table | 4 | 6% |
+| Counting | 3 | 5% |
 | Stack | 3 | 5% |
-| Counting | 2 | 3% |
 
 ## Topics
 
@@ -68,12 +68,12 @@ All solutions submitted here are tested and accepted on LeetCode.
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
-| [Counting](Topics/counting/) | 2 |
+| [Counting](Topics/counting/) | 3 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 35 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 3 |
+| [Hash Table](Topics/hash-table/) | 4 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Math](Topics/math/) | 6 |
@@ -86,6 +86,6 @@ All solutions submitted here are tested and accepted on LeetCode.
 | [Simulation](Topics/simulation/) | 1 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 6 |
+| [String](Topics/string/) | 7 |
 | [Two Pointers](Topics/two-pointers/) | 9 |
 <!---LeetHub Summary End-->
