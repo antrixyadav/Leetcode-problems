@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-18T15:30:51.653Z",
+  "updatedAt": "2026-10-18T15:30:53.902Z",
   "problems": [
     {
       "frontendId": "175",
@@ -323,7 +323,7 @@
           "filename": "0610-triangle-judgement.sql",
           "path": "0610-triangle-judgement/0610-triangle-judgement.sql",
           "sha": "db556b80293370554821dc8d2447bd76efd9eebe",
-          "lastSyncedAt": "2026-10-18T14:38:38.848Z"
+          "lastSyncedAt": "2026-10-18T15:30:53.902Z"
         }
       ]
     },
