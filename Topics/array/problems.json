@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T14:09:00.814Z",
+  "updatedAt": "2026-10-18T14:09:06.868Z",
   "problems": [
     {
       "frontendId": "26",
@@ -263,7 +263,7 @@
           "filename": "1480-running-sum-of-1d-array.c",
           "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.c",
           "sha": "81908101cd044fa3521df66122c8fe7e1d44b84b",
-          "lastSyncedAt": "2026-10-11T12:53:37.132Z"
+          "lastSyncedAt": "2026-10-18T14:09:06.868Z"
         }
       ]
     },
