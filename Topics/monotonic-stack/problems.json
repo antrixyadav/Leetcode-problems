@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-10-11T12:53:20.716Z",
+  "updatedAt": "2026-10-18T14:08:48.339Z",
   "problems": [
     {
       "frontendId": "1475",
@@ -23,7 +23,7 @@
           "filename": "1475-final-prices-with-a-special-discount-in-a-shop.c",
           "path": "1475-final-prices-with-a-special-discount-in-a-shop/1475-final-prices-with-a-special-discount-in-a-shop.c",
           "sha": "7c28ac90cb7db361ad99cd47615b670c5c92140d",
-          "lastSyncedAt": "2026-10-11T12:53:20.716Z"
+          "lastSyncedAt": "2026-10-18T14:08:48.339Z"
         }
       ]
     }
