@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T15:27:44.568Z",
+  "updatedAt": "2026-10-18T15:27:50.518Z",
   "problems": [
     {
       "frontendId": "13",
@@ -163,7 +163,7 @@
           "filename": "0387-first-unique-character-in-a-string.c",
           "path": "0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.c",
           "sha": "524eb45424d84e3786cae20d8337f040314f25a7",
-          "lastSyncedAt": "2026-10-18T14:35:47.068Z"
+          "lastSyncedAt": "2026-10-18T15:27:50.518Z"
         }
       ]
     },
