@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-18T14:38:09.581Z",
+  "updatedAt": "2026-10-18T15:22:17.687Z",
   "problems": [
     {
       "frontendId": "2",
@@ -84,6 +84,26 @@
           "path": "0013-roman-to-integer/0013-roman-to-integer.cpp",
           "sha": "6ddd7445d8ccc949358862feb70ea52b4d3c1a1e",
           "lastSyncedAt": "2026-10-18T14:37:40.192Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "43",
+      "title": "Multiply Strings",
+      "slug": "multiply-strings",
+      "problemName": "0043-multiply-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/multiply-strings/",
+      "folderPath": "0043-multiply-strings/",
+      "readmePath": "0043-multiply-strings/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0043-multiply-strings.c",
+          "path": "0043-multiply-strings/0043-multiply-strings.c",
+          "sha": "3dd693945c920aa662b645f03293efb6eb5aefa0",
+          "lastSyncedAt": "2026-10-18T15:22:17.687Z"
         }
       ]
     },
