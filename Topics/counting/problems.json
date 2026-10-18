@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-18T14:35:41.672Z",
+  "updatedAt": "2026-10-18T14:35:47.068Z",
   "problems": [
     {
       "frontendId": "383",
@@ -43,7 +43,7 @@
           "filename": "0387-first-unique-character-in-a-string.c",
           "path": "0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.c",
           "sha": "524eb45424d84e3786cae20d8337f040314f25a7",
-          "lastSyncedAt": "2026-10-18T14:07:53.951Z"
+          "lastSyncedAt": "2026-10-18T14:35:47.068Z"
         }
       ]
     },
