@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-18T15:29:33.829Z",
+  "updatedAt": "2026-10-19T17:34:33.130Z",
   "problems": [
     {
       "frontendId": "2",
@@ -103,7 +103,7 @@
           "filename": "1669-merge-in-between-linked-lists.c",
           "path": "1669-merge-in-between-linked-lists/1669-merge-in-between-linked-lists.c",
           "sha": "8f6c548ebb2fc2d3f1990005a3ce2502a2ecdd08",
-          "lastSyncedAt": "2026-10-18T15:28:06.692Z"
+          "lastSyncedAt": "2026-10-19T17:34:33.130Z"
         }
       ]
     },
