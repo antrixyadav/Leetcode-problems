@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T16:00:22.291Z",
+  "updatedAt": "2026-10-19T09:15:46.742Z",
   "problems": [
     {
       "frontendId": "8",
@@ -44,6 +44,26 @@
           "path": "0013-roman-to-integer/0013-roman-to-integer.cpp",
           "sha": "6ddd7445d8ccc949358862feb70ea52b4d3c1a1e",
           "lastSyncedAt": "2026-10-18T15:29:48.060Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "problemName": "0028-find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "folderPath": "0028-find-the-index-of-the-first-occurrence-in-a-string/",
+      "readmePath": "0028-find-the-index-of-the-first-occurrence-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.c",
+          "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.c",
+          "sha": "193d856659aaaea9dda1c968986f010393e26785",
+          "lastSyncedAt": "2026-10-19T09:15:46.742Z"
         }
       ]
     },
