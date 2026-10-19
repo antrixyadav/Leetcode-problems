@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-19T09:15:46.742Z",
+  "updatedAt": "2026-10-19T17:33:31.576Z",
   "problems": [
     {
       "frontendId": "19",
@@ -184,6 +184,26 @@
           "path": "0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.c",
           "sha": "ad377b9522b614d968b0234056b8dc2d39a0f15a",
           "lastSyncedAt": "2026-10-18T15:27:36.712Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "problemName": "0392-is-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+      "folderPath": "0392-is-subsequence/",
+      "readmePath": "0392-is-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0392-is-subsequence.c",
+          "path": "0392-is-subsequence/0392-is-subsequence.c",
+          "sha": "2aef2147f9c6fbac5f0f432b3d950376a649f5cc",
+          "lastSyncedAt": "2026-10-19T17:33:31.576Z"
         }
       ]
     },
