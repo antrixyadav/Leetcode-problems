@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-19T17:33:31.576Z",
+  "updatedAt": "2026-10-19T17:33:39.369Z",
   "problems": [
     {
       "frontendId": "19",
@@ -83,7 +83,7 @@
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.c",
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.c",
           "sha": "193d856659aaaea9dda1c968986f010393e26785",
-          "lastSyncedAt": "2026-10-19T09:15:46.742Z"
+          "lastSyncedAt": "2026-10-19T17:33:39.369Z"
         }
       ]
     },
