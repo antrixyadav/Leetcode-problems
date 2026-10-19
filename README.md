@@ -19,7 +19,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 70 | 55 | 15 | 0 |
+| 71 | 56 | 15 | 0 |
 
 ## Activity
 
@@ -42,18 +42,18 @@ All solutions submitted here are tested and accepted on LeetCode.
 | 2026-10-08 | 1 |
 | 2026-10-11 | 5 |
 | 2026-10-18 | 4 |
-| 2026-10-19 | 1 |
+| 2026-10-19 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 35 | 50% |
+| Database | 35 | 49% |
 | Array | 14 | 20% |
-| String | 11 | 16% |
-| Two Pointers | 11 | 16% |
+| String | 12 | 17% |
+| Two Pointers | 12 | 17% |
 | Math | 7 | 10% |
-| Linked List | 6 | 9% |
+| Linked List | 6 | 8% |
 | Binary Search | 4 | 6% |
 | Hash Table | 4 | 6% |
 | Counting | 3 | 4% |
@@ -72,7 +72,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 | [Counting](Topics/counting/) | 3 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 35 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 4 |
 | [Heap](Topics/heap/) | 0 |
@@ -88,8 +88,8 @@ All solutions submitted here are tested and accepted on LeetCode.
 | [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 11 |
+| [String](Topics/string/) | 12 |
 | [String Matching](Topics/string-matching/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 11 |
+| [Two Pointers](Topics/two-pointers/) | 12 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
