@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-18T15:28:55.940Z",
+  "updatedAt": "2026-10-19T17:35:26.583Z",
   "problems": [
     {
       "frontendId": "1480",
@@ -23,7 +23,7 @@
           "filename": "1480-running-sum-of-1d-array.c",
           "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.c",
           "sha": "81908101cd044fa3521df66122c8fe7e1d44b84b",
-          "lastSyncedAt": "2026-10-18T15:28:55.940Z"
+          "lastSyncedAt": "2026-10-19T17:35:26.583Z"
         }
       ]
     }
