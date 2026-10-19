@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-19T09:15:46.742Z",
+  "updatedAt": "2026-10-19T17:33:31.576Z",
   "problems": [
     {
       "frontendId": "8",
@@ -204,6 +204,26 @@
           "path": "0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.c",
           "sha": "524eb45424d84e3786cae20d8337f040314f25a7",
           "lastSyncedAt": "2026-10-18T15:27:50.518Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "problemName": "0392-is-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+      "folderPath": "0392-is-subsequence/",
+      "readmePath": "0392-is-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0392-is-subsequence.c",
+          "path": "0392-is-subsequence/0392-is-subsequence.c",
+          "sha": "2aef2147f9c6fbac5f0f432b3d950376a649f5cc",
+          "lastSyncedAt": "2026-10-19T17:33:31.576Z"
         }
       ]
     },
