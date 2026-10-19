@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-19T17:40:58.975Z",
+  "updatedAt": "2026-10-19T17:41:03.073Z",
   "problems": [
     {
       "frontendId": "26",
@@ -123,7 +123,7 @@
           "filename": "0088-merge-sorted-array.c",
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.c",
           "sha": "5213a6bdd1584054770dd329d0e79351e1f70e63",
-          "lastSyncedAt": "2026-10-19T17:35:19.414Z"
+          "lastSyncedAt": "2026-10-19T17:41:03.073Z"
         }
       ]
     },
