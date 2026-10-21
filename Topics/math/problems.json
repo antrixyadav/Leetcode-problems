@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-21T08:31:48.144Z",
+  "updatedAt": "2026-10-21T08:42:21.688Z",
   "problems": [
     {
       "frontendId": "2",
@@ -144,6 +144,26 @@
           "path": "0263-ugly-number/0263-ugly-number.java",
           "sha": "97f83a5f8f38a32980a848f4b7f4144f2b9ffd05",
           "lastSyncedAt": "2026-10-21T08:30:05.849Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1290",
+      "title": "Convert Binary Number in a Linked List to Integer",
+      "slug": "convert-binary-number-in-a-linked-list-to-integer",
+      "problemName": "1290-convert-binary-number-in-a-linked-list-to-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/",
+      "folderPath": "1290-convert-binary-number-in-a-linked-list-to-integer/",
+      "readmePath": "1290-convert-binary-number-in-a-linked-list-to-integer/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1290-convert-binary-number-in-a-linked-list-to-integer.c",
+          "path": "1290-convert-binary-number-in-a-linked-list-to-integer/1290-convert-binary-number-in-a-linked-list-to-integer.c",
+          "sha": "fa55c917c72843865ba6879a271a58c28eb1d492",
+          "lastSyncedAt": "2026-10-21T08:42:21.688Z"
         }
       ]
     }
