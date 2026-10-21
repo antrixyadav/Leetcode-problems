@@ -19,7 +19,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 73 | 58 | 15 | 0 |
+| 74 | 59 | 15 | 0 |
 
 ## Activity
 
@@ -42,22 +42,22 @@ All solutions submitted here are tested and accepted on LeetCode.
 | 2026-10-11 | 5 |
 | 2026-10-18 | 4 |
 | 2026-10-19 | 2 |
-| 2026-10-21 | 2 |
+| 2026-10-21 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 35 | 48% |
+| Database | 35 | 47% |
 | Array | 14 | 19% |
 | String | 12 | 16% |
 | Two Pointers | 12 | 16% |
-| Linked List | 8 | 11% |
+| Linked List | 9 | 12% |
 | Math | 8 | 11% |
 | Binary Search | 4 | 5% |
 | Hash Table | 4 | 5% |
 | Counting | 3 | 4% |
-| Stack | 3 | 4% |
+| Recursion | 3 | 4% |
 
 ## Topics
 
@@ -77,14 +77,14 @@ All solutions submitted here are tested and accepted on LeetCode.
 | [Hash Table](Topics/hash-table/) | 4 |
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 8 |
+| [Linked List](Topics/linked-list/) | 9 |
 | [Math](Topics/math/) | 8 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Queue](Topics/queue/) | 1 |
-| [Recursion](Topics/recursion/) | 2 |
+| [Recursion](Topics/recursion/) | 3 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 3 |
