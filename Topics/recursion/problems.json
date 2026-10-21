@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-21T08:29:42.380Z",
+  "updatedAt": "2026-10-21T08:59:22.318Z",
   "problems": [
     {
       "frontendId": "2",
@@ -24,6 +24,26 @@
           "path": "0002-add-two-numbers/0002-add-two-numbers.c",
           "sha": "05f9bab0168bb3256791544010e31d5b43b53bd8",
           "lastSyncedAt": "2026-10-21T08:29:42.380Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "203",
+      "title": "Remove Linked List Elements",
+      "slug": "remove-linked-list-elements",
+      "problemName": "0203-remove-linked-list-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-linked-list-elements/",
+      "folderPath": "0203-remove-linked-list-elements/",
+      "readmePath": "0203-remove-linked-list-elements/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0203-remove-linked-list-elements.c",
+          "path": "0203-remove-linked-list-elements/0203-remove-linked-list-elements.c",
+          "sha": "b1ffc0959e4d410de43dfd62339810689671418e",
+          "lastSyncedAt": "2026-10-21T08:59:22.318Z"
         }
       ]
     },
