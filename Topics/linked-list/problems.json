@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-19T17:41:53.761Z",
+  "updatedAt": "2026-10-21T08:28:15.165Z",
   "problems": [
     {
       "frontendId": "2",
@@ -44,6 +44,26 @@
           "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.c",
           "sha": "1d041aa564a642e63531e3dafca1e40abf13f8c9",
           "lastSyncedAt": "2026-10-19T17:41:53.761Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "206",
+      "title": "Reverse Linked List",
+      "slug": "reverse-linked-list",
+      "problemName": "0206-reverse-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
+      "folderPath": "0206-reverse-linked-list/",
+      "readmePath": "0206-reverse-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0206-reverse-linked-list.c",
+          "path": "0206-reverse-linked-list/0206-reverse-linked-list.c",
+          "sha": "1bb494d4e11bd31a69e9443c8989429487194d3a",
+          "lastSyncedAt": "2026-10-21T08:28:15.165Z"
         }
       ]
     },
