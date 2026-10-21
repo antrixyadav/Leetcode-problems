@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-21T10:23:27.729Z",
+  "updatedAt": "2026-10-21T11:00:56.756Z",
   "problems": [
     {
       "frontendId": "19",
@@ -203,7 +203,7 @@
           "filename": "0392-is-subsequence.c",
           "path": "0392-is-subsequence/0392-is-subsequence.c",
           "sha": "2aef2147f9c6fbac5f0f432b3d950376a649f5cc",
-          "lastSyncedAt": "2026-10-21T10:20:50.824Z"
+          "lastSyncedAt": "2026-10-21T11:00:56.756Z"
         }
       ]
     },
