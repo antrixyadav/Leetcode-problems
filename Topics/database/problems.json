@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-21T08:33:43.758Z",
+  "updatedAt": "2026-10-21T08:33:46.524Z",
   "problems": [
     {
       "frontendId": "175",
@@ -203,7 +203,7 @@
           "filename": "0570-managers-with-at-least-5-direct-reports.sql",
           "path": "0570-managers-with-at-least-5-direct-reports/0570-managers-with-at-least-5-direct-reports.sql",
           "sha": "cb1d6c3ea016e7d5a9bf25dc2585c9c497560e20",
-          "lastSyncedAt": "2026-10-19T17:43:38.308Z"
+          "lastSyncedAt": "2026-10-21T08:33:46.524Z"
         }
       ]
     },
