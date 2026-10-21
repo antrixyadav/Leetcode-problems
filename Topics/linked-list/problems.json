@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-21T08:42:21.688Z",
+  "updatedAt": "2026-10-21T08:59:22.318Z",
   "problems": [
     {
       "frontendId": "2",
@@ -44,6 +44,26 @@
           "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.c",
           "sha": "1d041aa564a642e63531e3dafca1e40abf13f8c9",
           "lastSyncedAt": "2026-10-21T08:31:00.633Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "203",
+      "title": "Remove Linked List Elements",
+      "slug": "remove-linked-list-elements",
+      "problemName": "0203-remove-linked-list-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-linked-list-elements/",
+      "folderPath": "0203-remove-linked-list-elements/",
+      "readmePath": "0203-remove-linked-list-elements/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0203-remove-linked-list-elements.c",
+          "path": "0203-remove-linked-list-elements/0203-remove-linked-list-elements.c",
+          "sha": "b1ffc0959e4d410de43dfd62339810689671418e",
+          "lastSyncedAt": "2026-10-21T08:59:22.318Z"
         }
       ]
     },
