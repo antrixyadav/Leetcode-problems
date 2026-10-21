@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-21T08:28:47.509Z",
+  "updatedAt": "2026-10-21T08:29:53.478Z",
   "problems": [
     {
       "frontendId": "43",
@@ -43,7 +43,7 @@
           "filename": "0682-baseball-game.c",
           "path": "0682-baseball-game/0682-baseball-game.c",
           "sha": "fac43ed0e74e43e6e2c737fcec9eb85af79c9c6d",
-          "lastSyncedAt": "2026-10-19T17:40:44.027Z"
+          "lastSyncedAt": "2026-10-21T08:29:53.478Z"
         }
       ]
     }
