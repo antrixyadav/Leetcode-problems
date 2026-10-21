@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-21T10:23:18.413Z",
+  "updatedAt": "2026-10-21T10:44:38.312Z",
   "problems": [
     {
       "frontendId": "33",
@@ -84,6 +84,26 @@
           "path": "0069-sqrtx/0069-sqrtx.c",
           "sha": "b826dc2f0b3a421ce1bba674e2d027f042c8c9e8",
           "lastSyncedAt": "2026-10-21T10:20:28.323Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "367",
+      "title": "Valid Perfect Square",
+      "slug": "valid-perfect-square",
+      "problemName": "0367-valid-perfect-square",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-perfect-square/",
+      "folderPath": "0367-valid-perfect-square/",
+      "readmePath": "0367-valid-perfect-square/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0367-valid-perfect-square.c",
+          "path": "0367-valid-perfect-square/0367-valid-perfect-square.c",
+          "sha": "9749b2831b52e3a8c7aef07de0dd5e2bd389c03e",
+          "lastSyncedAt": "2026-10-21T10:44:38.312Z"
         }
       ]
     },
