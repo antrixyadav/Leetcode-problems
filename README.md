@@ -19,17 +19,16 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 71 | 56 | 15 | 0 |
+| 72 | 57 | 15 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 4 days | 30 |
+| 1 days | 4 days | 31 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-26 | 1 |
 | 2026-09-24 | 3 |
 | 2026-09-26 | 2 |
 | 2026-09-29 | 3 |
@@ -43,17 +42,18 @@ All solutions submitted here are tested and accepted on LeetCode.
 | 2026-10-11 | 5 |
 | 2026-10-18 | 4 |
 | 2026-10-19 | 2 |
+| 2026-10-21 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Database | 35 | 49% |
-| Array | 14 | 20% |
+| Array | 14 | 19% |
 | String | 12 | 17% |
 | Two Pointers | 12 | 17% |
+| Linked List | 7 | 10% |
 | Math | 7 | 10% |
-| Linked List | 6 | 8% |
 | Binary Search | 4 | 6% |
 | Hash Table | 4 | 6% |
 | Counting | 3 | 4% |
@@ -77,14 +77,14 @@ All solutions submitted here are tested and accepted on LeetCode.
 | [Hash Table](Topics/hash-table/) | 4 |
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 6 |
+| [Linked List](Topics/linked-list/) | 7 |
 | [Math](Topics/math/) | 7 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Queue](Topics/queue/) | 1 |
-| [Recursion](Topics/recursion/) | 1 |
+| [Recursion](Topics/recursion/) | 2 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 3 |
