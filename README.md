@@ -19,7 +19,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 76 | 60 | 16 | 0 |
+| 77 | 61 | 16 | 0 |
 
 ## Activity
 
@@ -42,7 +42,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 | 2026-10-11 | 5 |
 | 2026-10-18 | 4 |
 | 2026-10-19 | 2 |
-| 2026-10-21 | 5 |
+| 2026-10-21 | 6 |
 
 ## Top Tags
 
@@ -52,9 +52,9 @@ All solutions submitted here are tested and accepted on LeetCode.
 | Array | 14 | 18% |
 | String | 12 | 16% |
 | Two Pointers | 12 | 16% |
+| Math | 10 | 13% |
 | Linked List | 9 | 12% |
-| Math | 9 | 12% |
-| Binary Search | 5 | 7% |
+| Binary Search | 6 | 8% |
 | Hash Table | 4 | 5% |
 | Counting | 3 | 4% |
 | Recursion | 3 | 4% |
@@ -65,7 +65,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 | --- | ---: |
 | [Array](Topics/array/) | 14 |
 | [Backtracking](Topics/backtracking/) | 0 |
-| [Binary Search](Topics/binary-search/) | 5 |
+| [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
@@ -79,7 +79,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 | [Interactive](Topics/interactive/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 9 |
-| [Math](Topics/math/) | 9 |
+| [Math](Topics/math/) | 10 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
