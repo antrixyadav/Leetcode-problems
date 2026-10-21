@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-21T08:31:34.220Z",
+  "updatedAt": "2026-10-21T08:31:36.676Z",
   "problems": [
     {
       "frontendId": "175",
@@ -263,7 +263,7 @@
           "filename": "0586-customer-placing-the-largest-number-of-orders.sql",
           "path": "0586-customer-placing-the-largest-number-of-orders/0586-customer-placing-the-largest-number-of-orders.sql",
           "sha": "5bc63e6dc22e98df48c647bb054243f19058e59f",
-          "lastSyncedAt": "2026-10-19T17:42:32.263Z"
+          "lastSyncedAt": "2026-10-21T08:31:36.676Z"
         }
       ]
     },
