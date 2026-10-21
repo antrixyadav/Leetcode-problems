@@ -5,7 +5,7 @@
     "name": "String Matching",
     "tagId": "61052"
   },
-  "updatedAt": "2026-10-21T08:28:32.061Z",
+  "updatedAt": "2026-10-21T10:20:57.511Z",
   "problems": [
     {
       "frontendId": "28",
@@ -23,7 +23,7 @@
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.c",
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.c",
           "sha": "193d856659aaaea9dda1c968986f010393e26785",
-          "lastSyncedAt": "2026-10-21T08:28:32.061Z"
+          "lastSyncedAt": "2026-10-21T10:20:57.511Z"
         }
       ]
     }
