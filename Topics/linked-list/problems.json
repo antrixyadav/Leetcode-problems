@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-21T10:20:43.167Z",
+  "updatedAt": "2026-10-21T10:20:47.195Z",
   "problems": [
     {
       "frontendId": "2",
@@ -83,7 +83,7 @@
           "filename": "0206-reverse-linked-list.c",
           "path": "0206-reverse-linked-list/0206-reverse-linked-list.c",
           "sha": "1bb494d4e11bd31a69e9443c8989429487194d3a",
-          "lastSyncedAt": "2026-10-21T08:28:15.165Z"
+          "lastSyncedAt": "2026-10-21T10:20:47.195Z"
         }
       ]
     },
