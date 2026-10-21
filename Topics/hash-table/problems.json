@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-21T11:01:38.320Z",
+  "updatedAt": "2026-10-21T11:01:45.902Z",
   "problems": [
     {
       "frontendId": "13",
@@ -63,7 +63,7 @@
           "filename": "0387-first-unique-character-in-a-string.c",
           "path": "0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.c",
           "sha": "524eb45424d84e3786cae20d8337f040314f25a7",
-          "lastSyncedAt": "2026-10-21T10:21:33.763Z"
+          "lastSyncedAt": "2026-10-21T11:01:45.902Z"
         }
       ]
     },
