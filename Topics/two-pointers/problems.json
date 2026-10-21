@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-21T11:01:05.657Z",
+  "updatedAt": "2026-10-21T11:01:29.437Z",
   "problems": [
     {
       "frontendId": "19",
@@ -183,7 +183,7 @@
           "filename": "0345-reverse-vowels-of-a-string.c",
           "path": "0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.c",
           "sha": "ad377b9522b614d968b0234056b8dc2d39a0f15a",
-          "lastSyncedAt": "2026-10-21T10:21:17.978Z"
+          "lastSyncedAt": "2026-10-21T11:01:29.437Z"
         }
       ]
     },
