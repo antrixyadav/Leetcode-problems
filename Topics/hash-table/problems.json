@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-22T15:13:53.570Z",
+  "updatedAt": "2026-10-22T15:14:38.901Z",
   "problems": [
     {
       "frontendId": "13",
@@ -83,7 +83,7 @@
           "filename": "0817-linked-list-components.c",
           "path": "0817-linked-list-components/0817-linked-list-components.c",
           "sha": "b2fcc271bd39bb03a8de7e44c68634dc88958bb4",
-          "lastSyncedAt": "2026-10-21T11:02:26.560Z"
+          "lastSyncedAt": "2026-10-22T15:14:38.901Z"
         }
       ]
     }
