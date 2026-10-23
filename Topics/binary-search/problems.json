@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-23T15:04:02.318Z",
+  "updatedAt": "2026-10-23T15:04:08.713Z",
   "problems": [
     {
       "frontendId": "33",
@@ -123,7 +123,7 @@
           "filename": "0367-valid-perfect-square.c",
           "path": "0367-valid-perfect-square/0367-valid-perfect-square.c",
           "sha": "9749b2831b52e3a8c7aef07de0dd5e2bd389c03e",
-          "lastSyncedAt": "2026-10-22T15:12:31.216Z"
+          "lastSyncedAt": "2026-10-23T15:04:08.713Z"
         }
       ]
     },
