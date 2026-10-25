@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-25T09:09:03.130Z",
+  "updatedAt": "2026-10-25T09:31:19.882Z",
   "problems": [
     {
       "frontendId": "175",
@@ -604,6 +604,26 @@
           "path": "1484-group-sold-products-by-the-date/1484-group-sold-products-by-the-date.sql",
           "sha": "33fcd8d2c1009967988ba4640b0889d3736bdf03",
           "lastSyncedAt": "2026-10-22T15:16:30.634Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1517",
+      "title": "Find Users With Valid E-Mails",
+      "slug": "find-users-with-valid-e-mails",
+      "problemName": "1517-find-users-with-valid-e-mails",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-users-with-valid-e-mails/",
+      "folderPath": "1517-find-users-with-valid-e-mails/",
+      "readmePath": "1517-find-users-with-valid-e-mails/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1517-find-users-with-valid-e-mails.sql",
+          "path": "1517-find-users-with-valid-e-mails/1517-find-users-with-valid-e-mails.sql",
+          "sha": "96fbcb5bdfc0420f054fdfa0e8e02e6f17c310ca",
+          "lastSyncedAt": "2026-10-25T09:31:19.882Z"
         }
       ]
     },
