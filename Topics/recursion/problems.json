@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-22T15:14:31.129Z",
+  "updatedAt": "2026-10-25T08:56:56.394Z",
   "problems": [
     {
       "frontendId": "2",
@@ -43,7 +43,7 @@
           "filename": "0203-remove-linked-list-elements.c",
           "path": "0203-remove-linked-list-elements/0203-remove-linked-list-elements.c",
           "sha": "b1ffc0959e4d410de43dfd62339810689671418e",
-          "lastSyncedAt": "2026-10-22T15:12:43.711Z"
+          "lastSyncedAt": "2026-10-25T08:56:56.394Z"
         }
       ]
     },
