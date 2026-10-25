@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-25T08:56:18.665Z",
+  "updatedAt": "2026-10-25T08:56:21.184Z",
   "problems": [
     {
       "frontendId": "175",
@@ -703,7 +703,7 @@
           "filename": "1729-find-followers-count.sql",
           "path": "1729-find-followers-count/1729-find-followers-count.sql",
           "sha": "8c5fd3bcf5824d4c27675201e1616151ce2af037",
-          "lastSyncedAt": "2026-10-23T15:03:40.814Z"
+          "lastSyncedAt": "2026-10-25T08:56:21.184Z"
         }
       ]
     },
