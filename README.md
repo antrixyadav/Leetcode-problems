@@ -19,7 +19,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 81 | 64 | 17 | 0 |
+| 82 | 65 | 17 | 0 |
 
 ## Activity
 
@@ -42,14 +42,14 @@ All solutions submitted here are tested and accepted on LeetCode.
 | 2026-10-21 | 7 |
 | 2026-10-22 | 1 |
 | 2026-10-23 | 1 |
-| 2026-10-25 | 1 |
+| 2026-10-25 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 39 | 48% |
-| Array | 15 | 19% |
+| Database | 40 | 49% |
+| Array | 15 | 18% |
 | String | 12 | 15% |
 | Two Pointers | 12 | 15% |
 | Math | 10 | 12% |
@@ -71,7 +71,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Counting](Topics/counting/) | 3 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Database](Topics/database/) | 39 |
+| [Database](Topics/database/) | 40 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 4 |
