@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-25T08:56:46.300Z",
+  "updatedAt": "2026-10-25T08:56:50.769Z",
   "problems": [
     {
       "frontendId": "33",
@@ -83,7 +83,7 @@
           "filename": "0069-sqrtx.c",
           "path": "0069-sqrtx/0069-sqrtx.c",
           "sha": "b826dc2f0b3a421ce1bba674e2d027f042c8c9e8",
-          "lastSyncedAt": "2026-10-23T15:04:12.580Z"
+          "lastSyncedAt": "2026-10-25T08:56:50.769Z"
         }
       ]
     },
