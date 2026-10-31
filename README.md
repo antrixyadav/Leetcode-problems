@@ -19,7 +19,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 84 | 66 | 18 | 0 |
+| 85 | 66 | 19 | 0 |
 
 ## Activity
 
@@ -42,13 +42,13 @@ All solutions submitted here are tested and accepted on LeetCode.
 | 2026-10-22 | 1 |
 | 2026-10-23 | 1 |
 | 2026-10-25 | 3 |
-| 2026-10-31 | 1 |
+| 2026-10-31 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 42 | 50% |
+| Database | 42 | 49% |
 | Array | 15 | 18% |
 | String | 12 | 14% |
 | Two Pointers | 12 | 14% |
