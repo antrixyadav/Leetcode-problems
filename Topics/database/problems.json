@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-25T09:31:43.942Z",
+  "updatedAt": "2026-10-31T15:24:47.237Z",
   "problems": [
     {
       "frontendId": "175",
@@ -304,6 +304,26 @@
           "path": "0596-classes-with-at-least-5-students/0596-classes-with-at-least-5-students.sql",
           "sha": "0946dff60283e55cf4df3a19824017b8086c7a4b",
           "lastSyncedAt": "2026-10-25T08:56:29.106Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "608",
+      "title": "Tree Node",
+      "slug": "tree-node",
+      "problemName": "0608-tree-node",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/tree-node/",
+      "folderPath": "0608-tree-node/",
+      "readmePath": "0608-tree-node/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0608-tree-node.sql",
+          "path": "0608-tree-node/0608-tree-node.sql",
+          "sha": "010b34d0d8847f280ddc83528f95906f7e6f6dc7",
+          "lastSyncedAt": "2026-10-31T15:24:47.237Z"
         }
       ]
     },
