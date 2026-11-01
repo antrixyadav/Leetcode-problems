@@ -19,7 +19,7 @@ All solutions submitted here are tested and accepted on LeetCode.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 89 | 68 | 21 | 0 |
+| 90 | 69 | 21 | 0 |
 
 ## Activity
 
@@ -42,16 +42,16 @@ All solutions submitted here are tested and accepted on LeetCode.
 | 2026-10-23 | 1 |
 | 2026-10-25 | 3 |
 | 2026-10-31 | 3 |
-| 2026-11-01 | 3 |
+| 2026-11-01 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 46 | 52% |
+| Database | 46 | 51% |
 | Array | 15 | 17% |
-| String | 12 | 13% |
-| Two Pointers | 12 | 13% |
+| String | 13 | 14% |
+| Two Pointers | 13 | 14% |
 | Math | 10 | 11% |
 | Linked List | 9 | 10% |
 | Binary Search | 7 | 8% |
@@ -90,8 +90,8 @@ All solutions submitted here are tested and accepted on LeetCode.
 | [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 12 |
+| [String](Topics/string/) | 13 |
 | [String Matching](Topics/string-matching/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 12 |
+| [Two Pointers](Topics/two-pointers/) | 13 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
