@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-01T12:06:27.382Z",
+  "updatedAt": "2026-11-01T12:06:30.400Z",
   "problems": [
     {
       "frontendId": "175",
@@ -703,7 +703,7 @@
           "filename": "1527-patients-with-a-condition.sql",
           "path": "1527-patients-with-a-condition/1527-patients-with-a-condition.sql",
           "sha": "9685950a9aa38e819361aeb48c629e702c1fa441",
-          "lastSyncedAt": "2026-10-22T15:16:24.995Z"
+          "lastSyncedAt": "2026-11-01T12:06:30.400Z"
         }
       ]
     },
