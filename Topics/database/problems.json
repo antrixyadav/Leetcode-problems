@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-01T11:34:18.170Z",
+  "updatedAt": "2026-11-01T11:46:20.183Z",
   "problems": [
     {
       "frontendId": "175",
@@ -784,6 +784,26 @@
           "path": "1729-find-followers-count/1729-find-followers-count.sql",
           "sha": "8c5fd3bcf5824d4c27675201e1616151ce2af037",
           "lastSyncedAt": "2026-10-31T16:45:52.626Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1731",
+      "title": "The Number of Employees Which Report to Each Employee",
+      "slug": "the-number-of-employees-which-report-to-each-employee",
+      "problemName": "1731-the-number-of-employees-which-report-to-each-employee",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/",
+      "folderPath": "1731-the-number-of-employees-which-report-to-each-employee/",
+      "readmePath": "1731-the-number-of-employees-which-report-to-each-employee/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1731-the-number-of-employees-which-report-to-each-employee.sql",
+          "path": "1731-the-number-of-employees-which-report-to-each-employee/1731-the-number-of-employees-which-report-to-each-employee.sql",
+          "sha": "95cc10f19697cd30000801610142c9a55dca3b32",
+          "lastSyncedAt": "2026-11-01T11:46:20.183Z"
         }
       ]
     },
