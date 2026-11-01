@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-01T11:46:20.183Z",
+  "updatedAt": "2026-11-01T12:02:00.490Z",
   "problems": [
     {
       "frontendId": "175",
@@ -803,7 +803,7 @@
           "filename": "1731-the-number-of-employees-which-report-to-each-employee.sql",
           "path": "1731-the-number-of-employees-which-report-to-each-employee/1731-the-number-of-employees-which-report-to-each-employee.sql",
           "sha": "95cc10f19697cd30000801610142c9a55dca3b32",
-          "lastSyncedAt": "2026-11-01T11:46:20.183Z"
+          "lastSyncedAt": "2026-11-01T12:02:00.490Z"
         }
       ]
     },
