@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-01T13:59:23.020Z",
+  "updatedAt": "2026-11-06T11:57:20.886Z",
   "problems": [
     {
       "frontendId": "175",
@@ -844,6 +844,26 @@
           "path": "1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql",
           "sha": "e124e720115453ae7e0ed10abff510cdd1c0f7c8",
           "lastSyncedAt": "2026-11-01T13:59:17.549Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1789",
+      "title": "Primary Department for Each Employee",
+      "slug": "primary-department-for-each-employee",
+      "problemName": "1789-primary-department-for-each-employee",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/primary-department-for-each-employee/",
+      "folderPath": "1789-primary-department-for-each-employee/",
+      "readmePath": "1789-primary-department-for-each-employee/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1789-primary-department-for-each-employee.sql",
+          "path": "1789-primary-department-for-each-employee/1789-primary-department-for-each-employee.sql",
+          "sha": "7059ca8282fb252a85f78d34c113222ebedd11bd",
+          "lastSyncedAt": "2026-11-06T11:57:20.886Z"
         }
       ]
     },
