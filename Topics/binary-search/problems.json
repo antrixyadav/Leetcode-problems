@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-14T11:32:09.238Z",
+  "updatedAt": "2026-11-14T12:13:57.232Z",
   "problems": [
     {
       "frontendId": "33",
@@ -144,6 +144,26 @@
           "path": "0367-valid-perfect-square/0367-valid-perfect-square.c",
           "sha": "9749b2831b52e3a8c7aef07de0dd5e2bd389c03e",
           "lastSyncedAt": "2026-11-01T13:56:40.704Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "540",
+      "title": "Single Element in a Sorted Array",
+      "slug": "single-element-in-a-sorted-array",
+      "problemName": "0540-single-element-in-a-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+      "folderPath": "0540-single-element-in-a-sorted-array/",
+      "readmePath": "0540-single-element-in-a-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0540-single-element-in-a-sorted-array.c",
+          "path": "0540-single-element-in-a-sorted-array/0540-single-element-in-a-sorted-array.c",
+          "sha": "a755c23bb0de9c96d9d3bec752e0559a9d15e0ca",
+          "lastSyncedAt": "2026-11-14T12:13:57.232Z"
         }
       ]
     },
