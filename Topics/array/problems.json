@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-01T13:57:56.629Z",
+  "updatedAt": "2026-11-14T07:49:44.210Z",
   "problems": [
     {
       "frontendId": "26",
@@ -104,6 +104,26 @@
           "path": "0035-search-insert-position/0035-search-insert-position.c",
           "sha": "bb741aa332e1cb874eb8aebe37ebdc870a622fb9",
           "lastSyncedAt": "2026-11-01T13:54:17.915Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "81",
+      "title": "Search in Rotated Sorted Array II",
+      "slug": "search-in-rotated-sorted-array-ii",
+      "problemName": "0081-search-in-rotated-sorted-array-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+      "folderPath": "0081-search-in-rotated-sorted-array-ii/",
+      "readmePath": "0081-search-in-rotated-sorted-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0081-search-in-rotated-sorted-array-ii.c",
+          "path": "0081-search-in-rotated-sorted-array-ii/0081-search-in-rotated-sorted-array-ii.c",
+          "sha": "58b952dc18e0688d9f3059013dd219170af26cc5",
+          "lastSyncedAt": "2026-11-14T07:49:44.210Z"
         }
       ]
     },
