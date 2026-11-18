@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-01T13:57:52.123Z",
+  "updatedAt": "2026-11-18T16:49:27.216Z",
   "problems": [
     {
       "frontendId": "2",
@@ -84,6 +84,26 @@
           "path": "0206-reverse-linked-list/0206-reverse-linked-list.c",
           "sha": "1bb494d4e11bd31a69e9443c8989429487194d3a",
           "lastSyncedAt": "2026-11-01T13:55:29.108Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "237",
+      "title": "Delete Node in a Linked List",
+      "slug": "delete-node-in-a-linked-list",
+      "problemName": "0237-delete-node-in-a-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+      "folderPath": "0237-delete-node-in-a-linked-list/",
+      "readmePath": "0237-delete-node-in-a-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0237-delete-node-in-a-linked-list.c",
+          "path": "0237-delete-node-in-a-linked-list/0237-delete-node-in-a-linked-list.c",
+          "sha": "b10decd66bd0e1dee9d6361d74c591a4dab26f20",
+          "lastSyncedAt": "2026-11-18T16:49:27.216Z"
         }
       ]
     },
