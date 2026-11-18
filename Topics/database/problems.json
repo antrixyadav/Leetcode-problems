@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-06T11:57:20.886Z",
+  "updatedAt": "2026-11-18T16:49:34.919Z",
   "problems": [
     {
       "frontendId": "175",
@@ -564,6 +564,26 @@
           "path": "1148-article-views-i/1148-article-views-i.sql",
           "sha": "81f98d14670a205f619d6d1017110913cf67ec34",
           "lastSyncedAt": "2026-11-01T13:59:06.771Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1164",
+      "title": "Product Price at a Given Date",
+      "slug": "product-price-at-a-given-date",
+      "problemName": "1164-product-price-at-a-given-date",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-price-at-a-given-date/",
+      "folderPath": "1164-product-price-at-a-given-date/",
+      "readmePath": "1164-product-price-at-a-given-date/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1164-product-price-at-a-given-date.sql",
+          "path": "1164-product-price-at-a-given-date/1164-product-price-at-a-given-date.sql",
+          "sha": "e26838d8f1989a3a09553567f57409cc223e6b28",
+          "lastSyncedAt": "2026-11-18T16:49:34.919Z"
         }
       ]
     },
