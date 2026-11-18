@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-14T12:13:57.232Z",
+  "updatedAt": "2026-11-18T16:48:38.402Z",
   "problems": [
     {
       "frontendId": "26",
@@ -184,6 +184,26 @@
           "path": "0153-find-minimum-in-rotated-sorted-array/0153-find-minimum-in-rotated-sorted-array.c",
           "sha": "316d6a05a922594040616661801f99faaabe4b99",
           "lastSyncedAt": "2026-11-01T13:54:33.805Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "0169-majority-element/",
+      "readmePath": "0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0169-majority-element.cpp",
+          "path": "0169-majority-element/0169-majority-element.cpp",
+          "sha": "f84926591bed068c8b37596820c04f2a182f64b3",
+          "lastSyncedAt": "2026-11-18T16:48:38.402Z"
         }
       ]
     },
