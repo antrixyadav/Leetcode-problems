@@ -5,8 +5,28 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-11-01T13:57:48.145Z",
+  "updatedAt": "2026-11-18T16:48:38.402Z",
   "problems": [
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "0169-majority-element/",
+      "readmePath": "0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0169-majority-element.cpp",
+          "path": "0169-majority-element/0169-majority-element.cpp",
+          "sha": "f84926591bed068c8b37596820c04f2a182f64b3",
+          "lastSyncedAt": "2026-11-18T16:48:38.402Z"
+        }
+      ]
+    },
     {
       "frontendId": "383",
       "title": "Ransom Note",
